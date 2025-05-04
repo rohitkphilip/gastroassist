@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="700" fill="#f8f9fa" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="450" y="40" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">GastroAssist Backend-Frontend Integration</text>
+  
+  <!-- Frontend Section -->
+  <rect x="50" y="80" width="350" height="550" rx="10" ry="10" fill="#e9ecef" stroke="#495057" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="225" y="110" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#333">Frontend (React/Next.js)</text>
+  
+  <!-- Frontend Components -->
+  <rect x="80" y="140" width="290" height="80" rx="8" ry="8" fill="#a8dadc" stroke="#457b9d" stroke-width="2"/>
+  <text x="225" y="170" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#1d3557">Pages</text>
+  <text x="225" y="195" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">index.tsx - Main Application Page</text>
+  
+  <rect x="80" y="240" width="290" height="80" rx="8" ry="8" fill="#a8dadc" stroke="#457b9d" stroke-width="2"/>
+  <text x="225" y="270" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#1d3557">Components</text>
+  <text x="225" y="295" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">QueryInput.tsx - User Query Interface</text>
+  
+  <rect x="80" y="340" width="290" height="100" rx="8" ry="8" fill="#a8dadc" stroke="#457b9d" stroke-width="2"/>
+  <text x="225" y="370" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#1d3557">Store</text>
+  <text x="225" y="395" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">querySlice.ts - Redux State Management</text>
+  <text x="225" y="415" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">actions: submitQuery, setResponse</text>
+  
+  <rect x="80" y="460" width="290" height="80" rx="8" ry="8" fill="#a8dadc" stroke="#457b9d" stroke-width="2"/>
+  <text x="225" y="490" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#1d3557">API Client</text>
+  <text x="225" y="515" font-family="Arial" font-size="12" text-anchor="middle" fill="#1d3557">HTTP Client for Backend Communication</text>
+  
+  <!-- Backend Section -->
+  <rect x="500" y="80" width="350" height="550" rx="10" ry="10" fill="#e9ecef" stroke="#495057" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="675" y="110" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#333">Backend (FastAPI/Python)</text>
+  
+  <!-- Backend Components -->
+  <rect x="530" y="140" width="290" height="80" rx="8" ry="8" fill="#bee3db" stroke="#89b0ae" stroke-width="2"/>
+  <text x="675" y="170" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#3a506b">API Endpoints</text>
+  <text x="675" y="195" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">main.py - FastAPI Routes</text>
+  
+  <rect x="530" y="240" width="290" height="90" rx="8" ry="8" fill="#bee3db" stroke="#89b0ae" stroke-width="2"/>
+  <text x="675" y="270" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#3a506b">Core Processing</text>
+  <text x="675" y="290" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">query_processor.py</text>
+  <text x="675" y="310" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">reasoning_agent.py, knowledge_router.py</text>
+  
+  <rect x="530" y="350" width="135" height="190" rx="8" ry="8" fill="#bee3db" stroke="#89b0ae" stroke-width="2"/>
+  <text x="597" y="380" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#3a506b">Knowledge</text>
+  <text x="597" y="400" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">kb_connector.py</text>
+  <text x="597" y="420" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">dynamic_search.py</text>
+  <text x="597" y="440" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">tavily_search.py</text>
+  <text x="597" y="460" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">duckduckgo_search.py</text>
+  
+  <rect x="685" y="350" width="135" height="190" rx="8" ry="8" fill="#bee3db" stroke="#89b0ae" stroke-width="2"/>
+  <text x="752" y="380" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#3a506b">Output</text>
+  <text x="752" y="400" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">answer_generator.py</text>
+  <text x="752" y="420" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">source_compiler.py</text>
+  <text x="752" y="440" font-family="Arial" font-size="12" text-anchor="middle" fill="#3a506b">quality_assurance.py</text>
+  
+  <!-- Integration Arrows -->
+  <!-- Frontend Internal Flow -->
+  <line x1="225" y1="220" x2="225" y2="240" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="225" y1="320" x2="225" y2="340" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="225" y1="440" x2="225" y2="460" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Backend Internal Flow -->
+  <line x1="675" y1="220" x2="675" y2="240" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="675" y1="330" x2="597" y2="350" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="675" y1="330" x2="752" y2="350" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="597" y1="540" x2="675" y2="580" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="752" y1="540" x2="675" y2="580" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Cross-system Integration -->
+  <line x1="370" y1="500" x2="530" y2="180" stroke="#e63946" stroke-width="3" stroke-dasharray="0" marker-end="url(#redarrow)"/>
+  <text x="430" y="310" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#e63946" transform="rotate(-40, 430, 310)">HTTP POST Request</text>
+  
+  <line x1="530" y1="200" x2="370" y2="520" stroke="#e63946" stroke-width="3" stroke-dasharray="0" marker-end="url(#redarrow)"/>
+  <text x="470" y="390" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#e63946" transform="rotate(40, 470, 390)">JSON Response</text>
+  
+  <!-- Data Flow labels -->
+  <rect x="530" y="580" width="290" height="40" rx="5" ry="5" fill="#e9c46a" stroke="#f4a261" stroke-width="2"/>
+  <text x="675" y="605" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#264653">Response with Source Citations</text>
+  
+  <!-- Legend -->
+  <rect x="50" y="650" width="800" height="30" rx="5" ry="5" fill="#fff" stroke="#666" stroke-width="1"/>
+  <text x="400" y="670" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">Integration Flow: Query → Processing → Knowledge Retrieval → Answer Generation → Response</text>
+  
+  <!-- Markers definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#333"/>
+    </marker>
+    <marker id="redarrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#e63946"/>
+    </marker>
+  </defs>
+</svg>
