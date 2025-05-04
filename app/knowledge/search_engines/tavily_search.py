@@ -38,7 +38,7 @@ class TavilySearch:
         # Prepare request headers and payload
         headers = {
             "Content-Type": "application/json",
-            "X-API-Key": self.api_key
+            "Authorization": f"Bearer {self.api_key}"
         }
         
         payload = {

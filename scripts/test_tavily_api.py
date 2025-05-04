@@ -5,8 +5,17 @@ from dotenv import load_dotenv
 
 def test_tavily_api():
     """Test the Tavily API connection and key validity"""
+    # Debug information
+    current_dir = os.path.abspath(os.path.dirname(__file__))
+    print(f"Current directory: {current_dir}")
+    project_root = os.path.dirname(current_dir)
+    print(f"Project root: {project_root}")
+    env_path = os.path.join(project_root, '.env')
+    print(f"Looking for .env at: {env_path}")
+    print(f"File exists: {os.path.exists(env_path)}")
+    
     # Load environment variables from .env file
-    load_dotenv()
+    load_dotenv(env_path)
     
     # Get the API key
     api_key = os.getenv("TAVILY_API_KEY")
@@ -23,7 +32,7 @@ def test_tavily_api():
     # Prepare request headers and payload
     headers = {
         "Content-Type": "application/json",
-        "X-API-Key": api_key
+        "Authorization": f"Bearer {api_key}"
     }
     
     payload = {
