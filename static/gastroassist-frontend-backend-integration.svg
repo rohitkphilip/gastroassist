@@ -1,0 +1,116 @@
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Styles -->
+  <defs>
+    <style type="text/css">
+      .frontend { fill: #ebf8ff; stroke: #3182ce; stroke-width: 2; }
+      .backend { fill: #f0fff4; stroke: #38a169; stroke-width: 2; }
+      .database { fill: #fff5f5; stroke: #e53e3e; stroke-width: 2; }
+      .external { fill: #fffaf0; stroke: #dd6b20; stroke-width: 2; }
+      .arrow { stroke: #4a5568; stroke-width: 2; fill: none; marker-end: url(#arrowhead); }
+      .data-arrow { stroke: #805ad5; stroke-width: 2; stroke-dasharray: 5,3; fill: none; marker-end: url(#purple-arrowhead); }
+      .section { fill: #f7fafc; stroke: #cbd5e0; stroke-width: 1; stroke-dasharray: 5,3; }
+      .label { font-family: Arial, sans-serif; font-size: 12px; fill: #4a5568; text-anchor: middle; }
+      .title { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #2c5282; text-anchor: middle; }
+      .section-title { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill: #2d3748; text-anchor: middle; }
+      .note { font-family: Arial, sans-serif; font-size: 11px; fill: #718096; text-anchor: middle; }
+      .data-label { font-family: Arial, sans-serif; font-size: 12px; fill: #805ad5; text-anchor: middle; font-style: italic; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4a5568" />
+    </marker>
+    <marker id="purple-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#805ad5" />
+    </marker>
+  </defs>
+  
+  <!-- Background sections -->
+  <rect x="30" y="80" width="420" height="580" rx="10" ry="10" class="section" />
+  <rect x="480" y="80" width="490" height="580" rx="10" ry="10" class="section" />
+  
+  <!-- Section titles -->
+  <text x="240" y="110" class="section-title">Frontend (Next.js)</text>
+  <text x="725" y="110" class="section-title">Backend (FastAPI)</text>
+  
+  <!-- Frontend Components -->
+  <rect x="100" y="140" width="280" height="70" rx="8" ry="8" class="frontend" />
+  <text x="240" y="170" class="title">QueryInput.tsx</text>
+  <text x="240" y="190" class="note">User query input component</text>
+  
+  <rect x="100" y="240" width="280" height="70" rx="8" ry="8" class="frontend" />
+  <text x="240" y="270" class="title">ResponseDisplay.tsx</text>
+  <text x="240" y="290" class="note">Displays AI responses with formatting</text>
+  
+  <rect x="100" y="340" width="280" height="70" rx="8" ry="8" class="frontend" />
+  <text x="240" y="370" class="title">SourcesList.tsx</text>
+  <text x="240" y="390" class="note">Displays cited medical sources</text>
+  
+  <rect x="100" y="440" width="280" height="70" rx="8" ry="8" class="frontend" />
+  <text x="240" y="470" class="title">LoadingIndicator.tsx</text>
+  <text x="240" y="490" class="note">Shows progress during API calls</text>
+  
+  <rect x="100" y="540" width="280" height="70" rx="8" ry="8" class="frontend" />
+  <text x="240" y="570" class="title">Frontend State (Redux)</text>
+  <text x="240" y="590" class="note">Manages application state</text>
+  
+  <!-- Backend Components -->
+  <rect x="550" y="140" width="280" height="70" rx="8" ry="8" class="backend" />
+  <text x="690" y="170" class="title">FastAPI Endpoints</text>
+  <text x="690" y="190" class="note">/api/query, /api/query/direct</text>
+  
+  <rect x="550" y="240" width="280" height="70" rx="8" ry="8" class="backend" />
+  <text x="690" y="270" class="title">Core Pipeline</text>
+  <text x="690" y="290" class="note">Knowledge Router, Query Processor</text>
+  
+  <rect x="550" y="340" width="280" height="70" rx="8" ry="8" class="backend" />
+  <text x="690" y="370" class="title">Tavily Search → Extract</text>
+  <text x="690" y="390" class="note">Medical information retrieval</text>
+  
+  <rect x="550" y="440" width="280" height="70" rx="8" ry="8" class="backend" />
+  <text x="690" y="470" class="title">LLM Summarizer (GPT-3.5 Turbo)</text>
+  <text x="690" y="490" class="note">Medical content summarization</text>
+  
+  <rect x="550" y="540" width="280" height="70" rx="8" ry="8" class="backend" />
+  <text x="690" y="570" class="title">Response Generation</text>
+  <text x="690" y="590" class="note">Structured responses with citations</text>
+  
+  <!-- External Services -->
+  <rect x="850" y="320" width="100" height="50" rx="8" ry="8" class="external" />
+  <text x="900" y="345" class="note">Tavily API</text>
+  
+  <rect x="850" y="400" width="100" height="50" rx="8" ry="8" class="external" />
+  <text x="900" y="425" class="note">OpenAI API</text>
+  
+  <!-- Database -->
+  <rect x="850" y="480" width="100" height="50" rx="8" ry="8" class="database" />
+  <text x="900" y="505" class="note">Database</text>
+  <text x="900" y="520" class="note">(SQLite/PostgreSQL)</text>
+  
+  <!-- Integration Arrows -->
+  <path d="M 240 210 L 240 230" class="arrow" />
+  <path d="M 240 310 L 240 330" class="arrow" />
+  <path d="M 240 410 L 240 430" class="arrow" />
+  <path d="M 240 510 L 240 530" class="arrow" />
+  
+  <path d="M 690 210 L 690 230" class="arrow" />
+  <path d="M 690 310 L 690 330" class="arrow" />
+  <path d="M 690 410 L 690 430" class="arrow" />
+  <path d="M 690 510 L 690 530" class="arrow" />
+  
+  <!-- Backend to External Services -->
+  <path d="M 830 350 L 840 350" class="arrow" />
+  <path d="M 830 450 L 840 450" class="arrow" />
+  <path d="M 830 550 L 840 480" class="arrow" />
+  
+  <!-- Frontend to Backend Integration -->
+  <path d="M 380 175 C 450 175, 450 175, 550 175" class="data-arrow" />
+  <text x="465" y="160" class="data-label">HTTP POST /api/query</text>
+  
+  <path d="M 550 575 C 450 575, 450 275, 380 275" class="data-arrow" />
+  <text x="465" y="260" class="data-label">JSON Response</text>
+  
+  <!-- Title -->
+  <text x="500" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c5282" text-anchor="middle">GastroAssist Frontend-Backend Integration</text>
+  
+  <!-- Data Flow Description -->
+  <text x="500" y="650" font-family="Arial, sans-serif" font-size="16" fill="#4a5568" text-anchor="middle">Data Flow: User Query → API Request → Knowledge Pipeline → LLM Processing → Structured Response</text>
+</svg>

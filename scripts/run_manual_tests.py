@@ -25,7 +25,7 @@ def run_manual_tests():
         return
     
     # Backend API endpoint
-    api_url = "http://localhost:8000/api/query"
+    api_url = "http://localhost:8000/api/query/direct"
     
     # Process each question file
     for question_file in question_files:
@@ -47,7 +47,8 @@ def run_manual_tests():
             # Prepare request payload
             payload = {
                 "text": question,
-                "user_id": "test-user"
+                "user_id": "test-user",
+                "context": {}  # Add empty context object
             }
             
             try:

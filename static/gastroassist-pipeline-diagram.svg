@@ -1,0 +1,120 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Styles -->
+  <defs>
+    <style type="text/css">
+      .component { fill: #f0f7ff; stroke: #3182ce; stroke-width: 2; }
+      .phase { fill: #ebf8ff; stroke: #4299e1; stroke-width: 1; stroke-dasharray: 5,3; }
+      .arrow { stroke: #4a5568; stroke-width: 2; fill: none; marker-end: url(#arrowhead); }
+      .label { font-family: Arial, sans-serif; font-size: 12px; fill: #4a5568; text-anchor: middle; }
+      .title { font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #2c5282; text-anchor: middle; }
+      .phase-title { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; fill: #2b6cb0; text-anchor: middle; }
+      .note { font-family: Arial, sans-serif; font-size: 11px; fill: #718096; text-anchor: middle; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4a5568" />
+    </marker>
+  </defs>
+  
+  <!-- Background for phases -->
+  <rect x="10" y="80" width="980" height="130" rx="10" ry="10" class="phase" />
+  <rect x="10" y="220" width="980" height="130" rx="10" ry="10" class="phase" />
+  <rect x="10" y="360" width="980" height="130" rx="10" ry="10" class="phase" />
+  <rect x="10" y="500" width="980" height="80" rx="10" ry="10" class="phase" />
+  
+  <!-- Phase titles -->
+  <text x="500" y="60" class="phase-title">Query Processing</text>
+  <text x="500" y="200" class="phase-title">Knowledge Retrieval</text>
+  <text x="500" y="340" class="phase-title">Content Processing</text>
+  <text x="500" y="480" class="phase-title">Response Generation</text>
+  
+  <!-- Components -->
+  <!-- Query Processing Phase -->
+  <rect x="100" y="100" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="180" y="135" class="title">User Query</text>
+  
+  <rect x="320" y="100" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="400" y="135" class="title">Query Processor</text>
+  
+  <rect x="540" y="100" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="620" y="135" class="title">Reasoning Agent</text>
+  <text x="620" y="155" class="note">Medical Term Recognition</text>
+  
+  <rect x="760" y="100" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="840" y="135" class="title">Knowledge Router</text>
+  
+  <!-- Knowledge Retrieval Phase -->
+  <rect x="100" y="240" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="180" y="270" class="title">Tavily Search</text>
+  <text x="180" y="290" class="note">Medical Search API</text>
+  
+  <rect x="320" y="240" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="400" y="265" class="title">Tavily Search API</text>
+  <text x="400" y="285" class="note">External Service</text>
+  
+  <rect x="540" y="240" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="620" y="270" class="title">Raw Search Results</text>
+  
+  <rect x="760" y="240" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="840" y="270" class="title">Best URLs</text>
+  <text x="840" y="290" class="note">Top-ranked sources</text>
+  
+  <!-- Content Processing Phase -->
+  <rect x="100" y="380" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="180" y="410" class="title">Tavily Extract</text>
+  <text x="180" y="430" class="note">Content Extraction</text>
+  
+  <rect x="320" y="380" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="400" y="405" class="title">Tavily Search API</text>
+  <text x="400" y="425" class="note">with Raw Content</text>
+  
+  <rect x="540" y="380" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="620" y="410" class="title">Extracted Content</text>
+  <text x="620" y="430" class="note">Full-text from sources</text>
+  
+  <rect x="760" y="380" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="840" y="410" class="title">Content Filtering</text>
+  <text x="840" y="430" class="note">Validation & Processing</text>
+  
+  <!-- Response Generation Phase -->
+  <rect x="100" y="510" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="180" y="540" class="title">LLM Summarizer</text>
+  <text x="180" y="560" class="note">GPT-3.5 Turbo</text>
+  
+  <rect x="320" y="510" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="400" y="535" class="title">Medical Prompt</text>
+  <text x="400" y="555" class="note">Specialized Instructions</text>
+  
+  <rect x="540" y="510" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="620" y="540" class="title">Concise Summary</text>
+  
+  <rect x="760" y="510" width="160" height="60" rx="8" ry="8" class="component" />
+  <text x="840" y="540" class="title">API Response</text>
+  <text x="840" y="560" class="note">With Source Citations</text>
+  
+  <!-- Arrows - Query Processing Phase -->
+  <path d="M 260 130 L 310 130" class="arrow" />
+  <path d="M 480 130 L 530 130" class="arrow" />
+  <path d="M 700 130 L 750 130" class="arrow" />
+  <path d="M 840 160 L 840 230" class="arrow" />
+  
+  <!-- Arrows - Knowledge Retrieval Phase -->
+  <path d="M 180 200 L 180 230" class="arrow" />
+  <path d="M 260 270 L 310 270" class="arrow" />
+  <path d="M 480 270 L 530 270" class="arrow" />
+  <path d="M 700 270 L 750 270" class="arrow" />
+  
+  <!-- Arrows - Content Processing Phase -->
+  <path d="M 180 300 L 180 370" class="arrow" />
+  <path d="M 260 410 L 310 410" class="arrow" />
+  <path d="M 480 410 L 530 410" class="arrow" />
+  <path d="M 700 410 L 750 410" class="arrow" />
+  
+  <!-- Arrows - Response Generation Phase -->
+  <path d="M 180 440 L 180 500" class="arrow" />
+  <path d="M 260 540 L 310 540" class="arrow" />
+  <path d="M 480 540 L 530 540" class="arrow" />
+  <path d="M 700 540 L 750 540" class="arrow" />
+  
+  <!-- Title -->
+  <text x="500" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c5282" text-anchor="middle">Enhanced GastroAssist Pipeline: Tavily Search → Extract → LLM Summarizer</text>
+</svg>

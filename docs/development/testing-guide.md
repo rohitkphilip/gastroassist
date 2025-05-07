@@ -164,3 +164,17 @@ describe('Query Flow', () => {
   it('should submit a query and display results', () => {
     cy.visit('/');
     cy
+```
+
+### Manual Testing Workflow
+
+The complete manual testing workflow includes:
+
+1. **Prepare**: Create question files in the `manual_testing` directory
+2. **Verify**: Run `python scripts/verify_manual_testing.py` to check setup
+3. **Test**: Execute `python scripts/run_manual_tests.py` to run tests
+4. **Report**: Generate reports with `python scripts/generate_test_report.py`
+5. **Extract**: Extract detailed summaries with `python scripts/extract_test_summaries.py`
+6. **Analyze**: Review reports and summaries to evaluate system performance
+
+This workflow allows for systematic evaluation of the system's response quality across different question types and domains.

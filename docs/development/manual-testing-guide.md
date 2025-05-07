@@ -136,3 +136,62 @@ If you encounter issues during testing:
 4. **Format Issues**: Validate that question files use the correct format (one question per line)
 
 For persistent issues, check the application logs or contact the development team.
+
+## Extracting Summaries and Sources
+
+After running tests and generating reports, you can extract detailed summaries and sources from the results:
+
+1. Run the extraction script:
+   ```bash
+   python scripts/extract_test_summaries.py
+   ```
+
+2. Alternatively, specify a particular results file:
+   ```bash
+   python scripts/extract_test_summaries.py --file manual_testing/results/results_questions_clinical_20250507_124012.json
+   ```
+
+3. The script will create:
+   - A `manual_testing/extracts` directory (if it doesn't exist)
+   - A Markdown file with formatted summaries and sources
+   - A JSON file with the extracted data
+
+4. The extracted files include:
+   - Questions and answers
+   - Confidence scores
+   - Detailed source information (titles, URLs, snippets)
+
+### Example Workflow
+
+A complete manual testing workflow includes:
+
+1. **Prepare Questions**:
+   ```bash
+   # Create or edit question files in manual_testing directory
+   nano manual_testing/questions_clinical.txt
+   ```
+
+2. **Verify Setup**:
+   ```bash
+   python scripts/verify_manual_testing.py
+   ```
+
+3. **Run Tests**:
+   ```bash
+   python scripts/run_manual_tests.py
+   ```
+
+4. **Generate Report**:
+   ```bash
+   python scripts/generate_test_report.py
+   ```
+
+5. **Extract Summaries**:
+   ```bash
+   python scripts/extract_test_summaries.py
+   ```
+
+6. **Review Results**:
+   - Check the report in `manual_testing/results/report_*.txt`
+   - Review detailed summaries in `manual_testing/extracts/summaries_*.md`
+   - Analyze the JSON data in `manual_testing/extracts/summaries_*.json`

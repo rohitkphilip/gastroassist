@@ -1,0 +1,62 @@
+GastroAssist Manual Testing Report
+Generated: 2025-05-07 19:52:41
+Test File: results_questions_manual_20250507_194738.json
+
+Summary Statistics:
+- Total Questions: 10
+- Success Rate: 100.0%
+- Average Confidence: nan%
+- Average Answer Length: 18.0 characters
+- Average Sources Count: 0.0
+
+Question Details:
+
+1. What is the most likely cause of chronic epigastric pain that improves with meals?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+2. How does Helicobacter pylori contribute to peptic ulcer disease?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+3. What are the red flag symptoms in a patient with dyspepsia that warrant urgent endoscopy?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+4. In a patient with elevated liver enzymes, how would you differentiate between hepatocellular and cho...
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+5. What is the first-line treatment for mild to moderate ulcerative colitis?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+6. How do you interpret a positive anti-tissue transglutaminase (tTG) IgA test in a symptomatic adult?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+7. When is colonoscopy recommended in patients with irritable bowel syndrome (IBS)?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+8. What is the pathophysiology behind hepatic encephalopathy in cirrhosis?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+9. What stool findings support a diagnosis of chronic pancreatitis?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
+
+10. In a patient with Barrett’s esophagus, what is the standard surveillance recommendation?
+   Status: Success
+   Confidence: N/A
+   Sources: 0
