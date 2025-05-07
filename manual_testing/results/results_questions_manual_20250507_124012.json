@@ -1,0 +1,892 @@
+[
+  {
+    "question": "What is the most likely cause of chronic epigastric pain that improves with meals?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- Epigastric abdominal pain that improves with meals is the hallmark of PUD. However, in some cases, symptoms of PUD may worsen with meals. NSAID use is associated with the development of PUD. Hematemesis, if present, suggests more complicated disease including bleeding ulcer and warrants urgent GI referral and endoscopy.\n\n- It has many causes, including overeating, lactose intolerance, and underlying conditions like gastroesophageal reflux disease (GERD), inflammation, and infection. Heartburn is a symptom of acid reflux and GERD, commonly described as a burning feeling in your chest after you eat. However, they may lead to acid reflux or GERD, which can cause epigastric pain or heartburn. This condition may result from acid reflux, which can cause epigastric pain. If an underlying condition such as GERD, Barrett’s esophagus, or peptic ulcer disease is causing your epigastric pain, you’ll likely require acid-blocking medications. Symptoms of Acid RefluxLearn more about acid reflux, a condition that occurs when stomach acids back up into the esophagus through the lower esophageal sphincter.\n\n- The classic symptom is burning epigastric pain after meals. Pain that occurs immediately after meals is a classic symptom of gastric ulcer. Pain that occurs 2 to 3 hours after meals and that is relieved by food or antacids is a strong indicator of duodenal ulcer. 13 Other symptoms include dyspepsia, bloating, distention, heartburn, and chest ...\n\n- Epigastric pain refers to pain or discomfort below the ribs in your upper abdomen area. Causes range from acute digestive issues like acid reflux to chronic conditions such as esophagitis.",
+      "sources": [
+        {
+          "title": "Epigastric pain Flashcards - Quizlet",
+          "url": "https://quizlet.com/333492490/epigastric-pain-flash-cards/",
+          "snippet": "Epigastric abdominal pain that improves with meals is the hallmark of PUD. However, in some cases, symptoms of PUD may worsen with meals. NSAID use is associated with the development of PUD. Hematemesis, if present, suggests more complicated disease including bleeding ulcer and warrants urgent GI referral and endoscopy.",
+          "confidence": 0.76385427
+        },
+        {
+          "title": "Not all abdominal pain is gastrointestinal | Cleveland Clinic Journal ...",
+          "url": "https://www.ccjm.org/content/83/1/29",
+          "snippet": "The classic symptom is burning epigastric pain after meals. Pain that occurs immediately after meals is a classic symptom of gastric ulcer. Pain that occurs 2 to 3 hours after meals and that is relieved by food or antacids is a strong indicator of duodenal ulcer. 13 Other symptoms include dyspepsia, bloating, distention, heartburn, and chest ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Epigastric Pain: Causes, Treatment, and More - Healthline",
+          "url": "https://www.healthline.com/health/epigastric-pain",
+          "snippet": "Epigastric pain refers to pain or discomfort below the ribs in your upper abdomen area. Causes range from acute digestive issues like acid reflux to chronic conditions such as esophagitis.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Upper Abdominal Pain: Left, Right, Center, Causes & Treatments",
+          "url": "https://my.clevelandclinic.org/health/symptoms/24736-upper-abdominal-pain",
+          "snippet": "Some of the most common causes include: Indigestion. Epigastric pain after eating is one of the defining features of indigestion, particularly with a burning quality. ... both chronic and acute. Acute causes, such as toxic or alcohol-induced hepatitis and viral hepatitis infection are more likely to cause pain. Liver cancer is a less common cause.",
+          "confidence": 0.7
+        },
+        {
+          "title": "98 pt 2 Flashcards - Quizlet",
+          "url": "https://quizlet.com/773012863/98-pt-2-flash-cards/",
+          "snippet": "What is the most likely cause of his symptoms?, A 12-year-old girl with cystic fibrosis has been noncompliant with her vitamin and enzyme supplements. ... The patient states that she has been experiencing a burning epigastric pain that occurs several hours after eating a meal and is relieved by antacids or food. Several times, the pain has ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "CR1 - CH.4 Epigastric Pain Study Q's & Case Studies:",
+          "url": "https://quizlet.com/934868400/cr1-ch4-epigastric-pain-study-qs-case-studies-flash-cards/",
+          "snippet": "Study with Quizlet and memorize flashcards containing terms like A 33-year-old man with a history of alcoholism presents with acute onset of epigastric pain, nausea and vomiting, elevated white blood cell (WBC) count, elevated serum amylase, and increasing lipase level. The entire pancreas appears enlarged and hypoechoic, with well-defined borders (Fig. 4-15). What is the most likely diagnosis ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Top 10 Causes of Epigastric Pain in the Upper Abdomen",
+          "url": "https://www.doctorshealthpress.com/causes-of-epigastric-pain-in-upper-abdomen/",
+          "snippet": "While these are 10 of the most frequent causes of epigastric pain, there are many more potential conditions that can lead to this type of pain. Hernias, bacterial infections, diseases (including cardiac disease), and side effects of medications can all play a part in epigastric pain. Diagnosing Causes of Epigastric Pain",
+          "confidence": 0.7
+        },
+        {
+          "title": "Common Causes Behind Epigastric Pain | Banner Health",
+          "url": "https://www.bannerhealth.com/healthcareblog/better-me/common-causes-behind-epigastric-pain",
+          "snippet": "They are likely to cause pain when your stomach is empty. Infection: H. pylori bacteria can infect your stomach. Gallbladder issues: While your gallbladder is on the right side of your abdomen, gallstones and other gallbladder problems can cause pain that radiates to the epigastric region.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Epigastric pain: Causes, treatment, and diagnosis - Medical News Today",
+          "url": "https://www.medicalnewstoday.com/articles/320317",
+          "snippet": "Diagnosing the cause of epigastric pain is important to ensure proper treatment. A healthcare professional will likely ask a series of questions about the pain and any additional symptoms ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Chapter 36 Review Flashcards - Quizlet",
+          "url": "https://quizlet.com/81432867/chapter-36-review-flash-cards/",
+          "snippet": "Study with Quizlet and memorize flashcards containing terms like Which symptom suggests the presence of a hiatal hernia? A. Nausea B. Heartburn C. Diarrhea D. Abdominal cramps, Proton pump inhibitors may be used in the management of peptic ulcer disease to A. increase gastric motility. B. inhibit secretion of pepsinogen. C. neutralize gastric acid. D. decrease hydrochloric acid (HCl) secretion ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Severe Epigastric Pain with Nausea and Vomiting - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7123429/",
+          "snippet": "A 41-year-old woman presents to the emergency department complaining of severe and continuous epigastric pain for the past 24 hours. The pain radiates straight through to her back. ... most likely secondary to cholelithiasis. This patient has the classic presentation which consists of epigastric abdominal pain radiating straight through to the ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Epigastric Pain: Causes, Treatment, and More - Healthline",
+          "url": "https://www.healthline.com/health/epigastric-pain",
+          "snippet": "It has many causes, including overeating, lactose intolerance, and underlying conditions like gastroesophageal reflux disease (GERD), inflammation, and infection. Heartburn is a symptom of acid reflux and GERD, commonly described as a burning feeling in your chest after you eat. However, they may lead to acid reflux or GERD, which can cause epigastric pain or heartburn. This condition may result from acid reflux, which can cause epigastric pain. If an underlying condition such as GERD, Barrett’s esophagus, or peptic ulcer disease is causing your epigastric pain, you’ll likely require acid-blocking medications. Symptoms of Acid RefluxLearn more about acid reflux, a condition that occurs when stomach acids back up into the esophagus through the lower esophageal sphincter.",
+          "confidence": 0.6562404
+        },
+        {
+          "title": "Not all abdominal pain is gastrointestinal | Cleveland Clinic Journal ...",
+          "url": "https://www.ccjm.org/content/83/1/29",
+          "snippet": "The classic symptom is burning epigastric pain after meals. Pain that occurs immediately after meals is a classic symptom of gastric ulcer. Pain that occurs 2 to 3 hours after meals and that is relieved by food or antacids is a strong indicator of duodenal ulcer. 13 Other symptoms include dyspepsia, bloating, distention, heartburn, and chest",
+          "confidence": 0.49582586
+        },
+        {
+          "title": "Upper Abdominal Pain: Left, Right, Center, Causes & Treatments",
+          "url": "https://my.clevelandclinic.org/health/symptoms/24736-upper-abdominal-pain",
+          "snippet": "Upper Abdominal Pain: Left, Right, Center, Causes & Treatments Which organs cause upper abdominal pain? Conditions affecting your peritoneum and peritoneal cavity could cause upper abdominal pain. What are the most common causes of upper abdominal pain? An upper abdominal muscle strain is a common cause of upper abdominal pain. An obstruction in your colon or in your small intestine where they pass through your upper abdominal region may cause pain there. A swollen spleen may be the cause of upper left abdominal pain. Not all causes of upper abdominal pain can be effectively treated at home. They may also run tests to narrow down the cause of your upper abdominal pain.",
+          "confidence": 0.23092882
+        },
+        {
+          "title": "Rare, Overlooked, or Underappreciated Causes of Recurrent Abdominal ...",
+          "url": "https://www.cghjournal.org/article/S1542-3565(22)00920-X/fulltext",
+          "snippet": "Abdominal pain is the most common gastrointestinal (GI) symptom leading to ambulatory medical visits, with 19.4 million total visits (6.9 million office visits and 12.5 million emergency department [ED] visits) reported in the United States in 2016. 1 In 2018, the annual U.S. healthcare expenditure associated with abdominal pain was estimated to be $9.5 billion. 1 An analysis of ED visits for",
+          "confidence": 0.21948004
+        }
+      ],
+      "confidence_score": 0.7746531756000001
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:40:20.221819"
+  },
+  {
+    "question": "How does Helicobacter pylori contribute to peptic ulcer disease?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- The pathophysiology of peptic ulcer disease (PUD) is often described as an imbalance between aggressive factors such as acid and pepsin and alterations in the mucosal protective mechanisms. Helicobacter pylori is a gram-negative organism that has been identified as a potential causative agent in the pathogenesis of PUD.\n\n- Helicobacter pylori infection of gastric mucosa is widespread, causing asymptomatic superficial gastritis; however, symptomatic disease in the form of duodenal and gastric ulcers is present only in a small proportion of infected individuals.H pylori causes most of the peptic ulcer disease that is not associated with nonsteroidal anti-inflammatory drug use or gastrinoma.\n\n- Peptic ulcers are frequently encountered in the primary care setting and understanding associated risk factors is key to disease prevention and management. Definition and Epidemiology Peptic ulcers are acid-induced lesions found in the stomach and duodenum characterized by denuded mucosa with the defect extending into the submucosa or muscularis propria. 1 Lesions that do not reach this depth ...\n\n- The pathophysiology of peptic ulcer disease (PUD) is often described as an imbalance between aggressive factors such as acid and pepsin and alterations in the mucosal protective mechanisms. Helicobacter pylori is a gram-negative organism that has been identified as a potential causative agent in the …",
+      "sources": [
+        {
+          "title": "The role of Helicobacter pylori in peptic ulcer disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8361859/",
+          "snippet": "The pathophysiology of peptic ulcer disease (PUD) is often described as an imbalance between aggressive factors such as acid and pepsin and alterations in the mucosal protective mechanisms. Helicobacter pylori is a gram-negative organism that has been identified as a potential causative agent in the pathogenesis of PUD.",
+          "confidence": 0.85797083
+        },
+        {
+          "title": "The relationship between helicobacter infection and peptic ulcer disease",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1068607X98001553",
+          "snippet": "Helicobacter pylori infection of gastric mucosa is widespread, causing asymptomatic superficial gastritis; however, symptomatic disease in the form of duodenal and gastric ulcers is present only in a small proportion of infected individuals.H pylori causes most of the peptic ulcer disease that is not associated with nonsteroidal anti-inflammatory drug use or gastrinoma.",
+          "confidence": 0.8479807
+        },
+        {
+          "title": "Trends in Peptic Ulcer Disease and the Identification of Helicobacter ...",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3249993/",
+          "snippet": "The identification of H. pylori as the causative agent in the majority of peptic ulcer disease has revolutionized the understanding and management of the disease. Medical conditions and surgical procedures associated with end-stage peptic ulcer disease have significantly decreased according to analysis of selected index categories.",
+          "confidence": 0.838376
+        },
+        {
+          "title": "Peptic Ulcer Disease and H. pylori Infection: Common Questions and ...",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36791443/",
+          "snippet": "Peptic ulcer disease is common, affecting 1 out of 12 people in the United States. Approximately 1 in 5 peptic ulcers is associated with Helicobacter pylori infection, with most of the rest due to nonsteroidal anti-inflammatory drug (NSAID) use. The combination of H. pylori infection and NSAID use s …",
+          "confidence": 0.7783298
+        },
+        {
+          "title": "Peptic Ulcer Disease and Helicobacter pylori infection - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6140150/",
+          "snippet": "Peptic ulcers are frequently encountered in the primary care setting and understanding associated risk factors is key to disease prevention and management. Definition and Epidemiology Peptic ulcers are acid-induced lesions found in the stomach and duodenum characterized by denuded mucosa with the defect extending into the submucosa or muscularis propria. 1 Lesions that do not reach this depth ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "The role of Helicobacter pylori in peptic ulcer disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8361859/",
+          "snippet": "The pathophysiology of peptic ulcer disease (PUD) is often described as an imbalance between aggressive factors such as acid and pepsin and alterations in the mucosal protective mechanisms. Helicobacter pylori is a gram-negative organism that has been identified as a potential causative agent in the …",
+          "confidence": 0.7
+        },
+        {
+          "title": "H. Pylori & Peptic Ulcer - Wake Gastroenterology",
+          "url": "https://wakegastro.com/patient-info/patient-education/h-pylori-peptic-ulcer/",
+          "snippet": "How does H. pylori cause a peptic ulcer? The H. pylori bacteria weakens the protective mucous coating of the stomach and duodenum, thus allowing acid to get through to the sensitive lining beneath.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Peptic Ulcer Disease and H. pylori Infection: Common Questions and ...",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36791443/",
+          "snippet": "Peptic ulcer disease is common, affecting 1 out of 12 people in the United States. Approximately 1 in 5 peptic ulcers is associated with Helicobacter pylori infection, with most of the rest due to nonsteroidal anti-inflammatory drug (NSAID) use.",
+          "confidence": 0.7
+        },
+        {
+          "title": "The relationship between helicobacter infection and peptic ulcer disease",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1068607X98001553",
+          "snippet": "Helicobacter pylori infection of gastric mucosa is widespread, causing asymptomatic superficial gastritis; however, symptomatic disease in the form of duodenal and gastric ulcers is present only in a small proportion of infected individuals. H pylori causes most of the peptic ulcer disease that is not associated with nonsteroidal anti-inflammatory drug use or gastrinoma. The best evidence for ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Helicobacter pylori infection and peptic ulcers - ScienceDirect",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1357303923002918",
+          "snippet": "A peptic ulcer is a breach in the gastric or duodenal mucosa with penetration of the muscularis mucosa. Small or shallow breaches <5 mm in size are termed 'erosions'; although often insignificant, these can precede frank ulceration. Worldwide, the two most common causes of peptic ulceration are Helicobacter pylori infection and use of non-steroidal anti-inflammatory drugs (NSAIDs ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Pathophysiology of Peptic Ulcer Disease - Physician Assistant Clinics",
+          "url": "https://physicianassistant.theclinics.com/article/S2405-7991(21)00047-5/fulltext",
+          "snippet": "Peptic ulcer disease (PUD) is characterized by an imbalance of protective and damaging mechanisms in the upper digestive tract. The cause of PUD was initially thought to be the result of gastric acid hypersecretion, dietary factors, and/or stress. However, Helicobacter pylori infection and nonsteroidal antiinflammatory drugs are now considered the main cause of ulcer formation in the stomach ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Is Helicobacter pylori Infection the Primary Cause of Duodenal ...",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3623110/",
+          "snippet": "Abstract Helicobacter pylori (H. pylori) has a role in the multifactorial etiology of peptic ulcer disease. A link between H. pylori infection and duodenal ulcer disease is now established. Other contributing factors and their interaction with the organism may initiate the ulcerative process. The fact that eradication of H. pylori infection leads to a long-term cure in the majority of duodenal ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Helicobacter Pylori Gastritis and Peptic Ulcer Disease",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-030-80068-0_12",
+          "snippet": "Helicobacter (H.) pylori is a Gram-negative, microaerophilic spiral bacterium that infects the stomach. Stomach colonization causes chronic gastritis that can remain silent, due to the dynamic equilibrium between the bacterium and its human host, or evolve into more severe diseases, such as atrophic gastritis, peptic ulcer, lymphoma of the mucosa-associated lymphoid tissue (MALT), or gastric ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Helicobacter pylori and peptic ulcer disease - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1022344/",
+          "snippet": "The discovery of Helicobacter pylori in most patients with peptic ulcer disease has led to a change in this approach. Therapy designed to eradicate H pylori may facilitate ulcer healing with acid antisecretory agents and, more important, may greatly reduce the incidence of ulcer recurrence, obviating the need for maintenance antisecretory therapy.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Peptic Ulcer Disease and Helicobacter pylori infection - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6140150/",
+          "snippet": "Peptic Ulcer Disease and Helicobacter pylori infection - PMC In NSAID- or aspirin-associated PUD, ulcers heal more than 85% of the time with 6–8 weeks of PPI therapy if the offending agent is discontinued. Although PPIs, H2 blockers, sucralfate, and misoprostol can all be considered to treat NSAID-associated PUD, PPIs are far more effective than other agents.25 Sucralfate is effective for treating NSAID-associated duodenal ulcers but not for the treatment or prevention of NSAID-associated gastric ulcers. pylori infections, as well as increased accessibility to anti-secretory therapy and more judicious use of NSAIDs. However, due to its continued high lifetime prevalence and varied clinical presentation, recognition and appropriate management of PUD are key to avoid and minimize significant complications.",
+          "confidence": 0.6638657
+        }
+      ],
+      "confidence_score": 0.8394609211999999
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:40:30.869642"
+  },
+  {
+    "question": "What are the red flag symptoms in a patient with dyspepsia that warrant urgent endoscopy?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- What are the high-risk groups or red flags that should never be ignored in patients with dyspepsia? Paul Moayyedi: Our data would suggest red flags are not as important as the textbooks would suggest. Most patients with the so-called red flags—that should be things like weight loss, anemia, dysphagia, vomiting—do not have organic pathology.\n\n- Flow Diagram: DYSPEPSIA Diagnosis and Management - Expanded Detail. 1. Establish the diagnosis of dyspepsia as defined above through history and physical examination, excluding worrisome features or red flags. In the presence of any red flags, referral to Gastroenterology for consideration of urgent endoscopic investigation is recommended, even\n\n- What are the high-risk groups or red flags that should never be ignored in patients with dyspepsia? Paul Moayyedi: Our data would suggest red flags are not as important as the textbooks would suggest. Most patients with the so-called red flags—that should be things like weight loss, anemia, dysphagia, vomiting—do not have organic pathology.\n\n- Red flags are signs and symptoms found in the patient's history and clinical examination. ... red eye and dyspepsia as well. Identification of red flags warrant investigations and or referral and is an integral part of primary care and of immense value to primary care doctors. ... Red flags in patients presenting with headache: Clinical ...",
+      "sources": [
+        {
+          "title": "Red flags in dyspepsia - Gastroenterology - Interviews - McMaster ...",
+          "url": "https://empendium.com/mcmtextbook/interviews/gastroenterology/187391,red-flags-in-dyspepsia",
+          "snippet": "What are the high-risk groups or red flags that should never be ignored in patients with dyspepsia? Paul Moayyedi: Our data would suggest red flags are not as important as the textbooks would suggest. Most patients with the so-called red flags—that should be things like weight loss, anemia, dysphagia, vomiting—do not have organic pathology.",
+          "confidence": 0.78552294
+        },
+        {
+          "title": "PDF",
+          "url": "https://www.albertahealthservices.ca/assets/info/hp/arp/if-hp-arp-dyspepsia-adult-gi.pdf",
+          "snippet": "Flow Diagram: DYSPEPSIA Diagnosis and Management - Expanded Detail. 1. Establish the diagnosis of dyspepsia as defined above through history and physical examination, excluding worrisome features or red flags. In the presence of any red flags, referral to Gastroenterology for consideration of urgent endoscopic investigation is recommended, even",
+          "confidence": 0.7668008
+        },
+        {
+          "title": "Dyspepsia - Signs and Symptoms - McMaster Textbook of ... - empendium",
+          "url": "https://empendium.com/mcmtextbook/chapter/B31.I.1.13.",
+          "snippet": "Red flags may prompt endoscopy in younger age groups but this depends on the concern regarding cancer. For example, a 5-kg weight loss may not be of a major concern in a 20-year-old patient with dyspepsia but it may prompt endoscopy in a 55-year-old person. ManagementTop. 1.",
+          "confidence": 0.76490957
+        },
+        {
+          "title": "Red flags in dyspepsia - Gastroenterology - Interviews - McMaster ...",
+          "url": "https://empendium.com/mcmtextbook/interviews/gastroenterology/187391,red-flags-in-dyspepsia",
+          "snippet": "What are the high-risk groups or red flags that should never be ignored in patients with dyspepsia? Paul Moayyedi: Our data would suggest red flags are not as important as the textbooks would suggest. Most patients with the so-called red flags—that should be things like weight loss, anemia, dysphagia, vomiting—do not have organic pathology.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Evaluation of red flags minimizes missing serious diseases in primary ...",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6060920/",
+          "snippet": "Red flags are signs and symptoms found in the patient's history and clinical examination. ... red eye and dyspepsia as well. Identification of red flags warrant investigations and or referral and is an integral part of primary care and of immense value to primary care doctors. ... Red flags in patients presenting with headache: Clinical ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Dyspepsia - Signs and Symptoms - McMaster Textbook of ... - empendium",
+          "url": "https://empendium.com/mcmtextbook/chapter/B31.I.1.13.",
+          "snippet": "Red flags may prompt endoscopy in younger age groups but this depends on the concern regarding cancer. For example, a 5-kg weight loss may not be of a major concern in a 20-year-old patient with dyspepsia but it may prompt endoscopy in a 55-year-old person. ManagementTop. 1.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Approach to the adult with dyspepsia - UpToDate",
+          "url": "https://www.uptodate.com/contents/approach-to-the-adult-with-dyspepsia",
+          "snippet": "INTRODUCTION — . Dyspepsia is a common symptom with an extensive differential diagnosis and a heterogeneous pathophysiology. It occurs in up to 20 percent of the population, although prevalence rates vary depending on which diagnostic criteria are used to establish the diagnosis [].Although most people with dyspepsia do not seek medical evaluation for their symptoms [], dyspepsia is still a ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Dyspepsia - Gastrointestinal Disorders - The Merck Manuals",
+          "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/symptoms-of-gastrointestinal-disorders/dyspepsia",
+          "snippet": "Many patients have findings on testing (eg, duodenitis, motility disturbance, Helicobacter pylori gastritis, lactose deficiency, cholelithiasis) that correlate poorly with symptoms (ie, correction of the condition does not alleviate dyspepsia). Nonulcer dyspepsia (functional dyspepsia) is defined as dyspeptic symptoms in a patient who has no abnormalities on physical examination and upper ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "The Diagnostic Value of Alarm Features for Identifying Types and Stages ...",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5412545/",
+          "snippet": "Data from medical records of consecutive patients who underwent open-access upper endoscopy for symptoms of dyspepsia in our hospital, an academic urban tertiary-care center, were retrospectively collected between January 2008 and December 2009. Dyspepsia was defined as pain and discomfort centered in the upper abdomen.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Dyspepsia: Symptoms and Treatment | Doctor - Patient",
+          "url": "https://patient.info/doctor/dyspepsia-pro",
+          "snippet": "If symptoms of heartburn and acid regurgitation predominate, then gastro-oesophageal reflux disease is the more likely diagnosis. 2. Functional dyspepsia (also known as non-ulcer dyspepsia) refers to people with dyspepsia symptoms and normal findings on endoscopy (gastric or duodenal ulcer, gastric malignancy, or oesophagitis have been excluded).",
+          "confidence": 0.7
+        },
+        {
+          "title": " Enhanced Primary Care Pathway: DYSPEPSIA - Alberta Health Services",
+          "url": "https://www.albertahealthservices.ca/assets/info/hp/arp/if-hp-arp-dyspepsia-adult-gi.pdf",
+          "snippet": "Flow Diagram: DYSPEPSIA Diagnosis and Management - Expanded Detail. 1. Establish the diagnosis of dyspepsia as defined above through history and physical examination, excluding worrisome features or red flags. In the presence of any red flags, referral to Gastroenterology for consideration of urgent endoscopic investigation is recommended, even ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "GA05 Management of Dyspepsia in Primary Care and Referral for Endoscopy",
+          "url": "https://www.valeofyorkccg.nhs.uk/seecmsfile/?id=6497",
+          "snippet": "Red Flag Symptoms Urgent (two week wait, fast track) with Dyspepsia In accordance with NICE guidance the CCGs will fund fast track (two week wait) referrals for direct access upper GI endoscopy to investigate dyspepsia only when there are alarm or red flag symptoms (as below), and when the referral is being made in order for the GP to",
+          "confidence": 0.7
+        },
+        {
+          "title": "Dyspepsia - FPnotebook.com",
+          "url": "https://fpnotebook.com/mobile/GI/Sx/Dysps.htm",
+          "snippet": "See Dyspepsia Red Flags for Indications; Perform early upper endoscopy for those with age >60 years with at least one month of symptoms; Early endoscopy indications at younger ages (<60 years old) High risk groups (e.g. southeast asian descent) Use clinical judgment in referral (e.g. multiple red flag symptoms) Multiple Dyspepsia Red Flags",
+          "confidence": 0.7
+        },
+        {
+          "title": "Dyspepsia: Symptoms and Treatment | Doctor - Patient",
+          "url": "https://patient.info/doctor/dyspepsia-pro",
+          "snippet": "If symptoms of heartburn and acid regurgitation predominate, then gastro-oesophageal reflux disease is the more likely diagnosis. 2. Functional dyspepsia (also known as non-ulcer dyspepsia) refers to people with dyspepsia symptoms and normal findings on endoscopy (gastric or duodenal ulcer, gastric malignancy, or oesophagitis have been excluded).",
+          "confidence": 0.5962692
+        },
+        {
+          "title": "Dyspepsia - Gastrointestinal Disorders - The Merck Manuals",
+          "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/symptoms-of-gastrointestinal-disorders/dyspepsia",
+          "snippet": "Many patients have findings on testing (eg, duodenitis, motility disturbance, Helicobacter pylori gastritis, lactose deficiency, cholelithiasis) that correlate poorly with symptoms (ie, correction of the condition does not alleviate dyspepsia). Nonulcer dyspepsia (functional dyspepsia) is defined as dyspeptic symptoms in a patient who has no abnormalities on physical examination and upper",
+          "confidence": 0.33711678
+        }
+      ],
+      "confidence_score": 0.8100247716
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:40:37.909822"
+  },
+  {
+    "question": "In a patient with elevated liver enzymes, how would you differentiate between hepatocellular and cholestatic injury?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- Figure re-drawn from BioRender. 1) Hepatocellular pattern: The degree of AST and ALT elevation varies based on the underlying cause of hepatocellular injury.Additionally, the AST/ALT ratio provides diagnostic clues; in alcohol associated liver disease, around 90% of patients have an AST/ALT ratio >2, likely due to alcohol-related depletion of pyridoxal phosphate, needed for ALT synthesis, and ...\n\n- Fig. 2: Serum aminotransferase levels in various liver diseases. Patients with acute viral or ischemic or toxic liver injury reach the highest aminotransferase levels, but there is a broad overlap in aminotransferase values between patients with acute alcoholic hepatitis and autoimmune hepatitis as well as between patients with chronic hepatitis and liver cirrhosis.",
+      "sources": [
+        {
+          "title": "How to approach elevated liver enzymes? | AASLD",
+          "url": "https://www.aasld.org/liver-fellow-network/core-series/back-basics/how-approach-elevated-liver-enzymes",
+          "snippet": "Figure re-drawn from BioRender. 1) Hepatocellular pattern: The degree of AST and ALT elevation varies based on the underlying cause of hepatocellular injury.Additionally, the AST/ALT ratio provides diagnostic clues; in alcohol associated liver disease, around 90% of patients have an AST/ALT ratio >2, likely due to alcohol-related depletion of pyridoxal phosphate, needed for ALT synthesis, and ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Liver enzyme alteration: a guide for clinicians - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC545762/",
+          "snippet": "Fig. 2: Serum aminotransferase levels in various liver diseases. Patients with acute viral or ischemic or toxic liver injury reach the highest aminotransferase levels, but there is a broad overlap in aminotransferase values between patients with acute alcoholic hepatitis and autoimmune hepatitis as well as between patients with chronic hepatitis and liver cirrhosis.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Abnormal liver enzymes: A review for clinicians - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8637680/",
+          "snippet": "It is also important for the clinician to understand the difference between cholestatic and hepatocellular abnormalities. ... The multiple markers used to identify liver injury may be also elevated due to other sources (bone ... Kaplan MM. Evaluation of abnormal liver-enzyme results in asymptomatic patients. N Engl J Med. 2000;342:1266-1271 ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Quiz 4 Flashcards | Quizlet",
+          "url": "https://quizlet.com/620645356/quiz-4-flash-cards/",
+          "snippet": "A new intern calls the laboratory to ask which liver enzymes would be best to differentiate between hepatocellular and cholestatic disease. You respond: Question ... You operate a laboratory that receives many serum specimens from the Sam Smith Memorial Liver Clinic next door. The patients who go to this clinic have serious acute and chronic ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "What's the Deal with Liver Enzymes With Dr. William Carey, MD",
+          "url": "https://my.clevelandclinic.org/podcasts/the-medicine-grand-rounders/whats-the-deal-with-liver-enzymes-with-dr-william-carey-md",
+          "snippet": "It can help differentiate between hepatocellular and cholestatic patterns of liver injury. While the R ratio is not particularly better at this than eyeballing the liver enzymes, it can be helpful when the pattern is unclear. Arjun: Q4: And what is the role of gamma-glutamyl transferase (GGT) in the evaluation of liver enzyme elevation? Dr. Carey:",
+          "confidence": 0.7
+        },
+        {
+          "title": "Tests of Liver Injury - PMC - PubMed Central (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1069083/",
+          "snippet": "There are four major types of liver injury: hepatocellular, autoimmune, cholestatic, and ... Markedly elevated bilirubin levels found in cholestatic diseases further differentiate between cholestatic and infiltrative patterns. ... Kaplan MM. Evaluation of abnormal liver-enzyme results in asymptomatic patients. N Engl J Med. 2000;342:1266-1271 ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Abnormal Liver Chemistry - Evaluation and Interpretation",
+          "url": "https://www2.gov.bc.ca/gov/content/health/practitioner-professional-resources/bc-guidelines/abnormal-liver-chemistry",
+          "snippet": "Elevated liver enzyme levels are reported in 1-4% of asymptomatic persons, most of whom will not develop clinically significant liver disease. The differentiation between hepatocellular injury and cholestasis is an important first step leading to a more efficient use of subsequent tests. The importance of alcohol, medications and obesity as ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Interpretation of Liver Function Tests (LFTs) - Geeky Medics",
+          "url": "https://geekymedics.com/interpretation-of-liver-function-tests-lfts/",
+          "snippet": "Therefore, raised ALT / AST levels are a marker of hepatocellular injury. Common causes of hepatocellular injury include: Hepatitis (viral, alcoholic, ischaemic) Liver cirrhosis; Drug / toxin-induced liver injury (e.g. paracetamol overdose) Malignancy (hepatocellular carcinoma) Hint: The AST:ALT ratio can help determine the aetiology of ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "The relative expression of hepatocellular and cholestatic liver enzymes ...",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31628070/",
+          "snippet": "Introduction and objectives: Hepatocellular liver injury is characterized by elevations in serum alanine (ALT) and aspartate (AST) aminotransferases while cholestasis is associated with elevated serum alkaline phosphatase (ALP) levels. When both sets of enzymes are elevated, distinguishing between the two patterns of liver disease can be difficult.",
+          "confidence": 0.7
+        },
+        {
+          "title": "The relative expression of hepatocellular and cholestatic liver enzymes ...",
+          "url": "https://www.elsevier.es/en-revista-annals-hepatology-16-articulo-the-relative-expression-hepatocellular-cholestatic-S1665268119322380",
+          "snippet": "1 Introduction. Interpreting liver enzyme levels is an important component of the evaluation of patients with acute or chronic liver disease .Typically, elevated serum alanine (ALT) and aspartate (AST) aminotransferase levels reflect the extent of hepatocellular injury while elevated serum alkaline phosphatase (ALP) and gamma-glutamyl transferase (GGT) levels, the extent of impaired bile flow ...",
+          "confidence": 0.7
+        }
+      ],
+      "confidence_score": 0.8200000000000001
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:40:43.104555"
+  },
+  {
+    "question": "What is the first-line treatment for mild to moderate ulcerative colitis?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- An algorithm for the medial management of mild, moderate, and severe ulcerative colitis. Progression along arrows is indicated if prior therapies fail. For mild to moderate disease the first-line therapy is 5-ASA agents. If this is ineffective, steroids can be used to induce remission.\n\n- Ulcerative colitis is a relapsing and remitting disease that is increasing in incidence and prevalence. Management aims to achieve rapid resolution of symptoms, mucosal healing and improvement in a patient's quality of life. 5-aminosalicylate acid medications remain the first-line treatment for mild to moderate disease.\n\n- On MyCrohnsAndColitisTeam, more than 182,000 members come together to ask questions, give advice, and share their stories with others who understand life with ulcerative colitis. What was your first-line treatment for ulcerative colitis? Share your experience in the comments below, or start a conversation by posting on your Activities page.\n\n- Changes to Make to Your Diet To Help With UC. Eating a healthy and well-balanced diet is important even for mild cases of ulcerative colitis. This could help prevent it from getting worse.",
+      "sources": [
+        {
+          "title": "Medical Treatment of Ulcerative Colitis - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2780076/",
+          "snippet": "An algorithm for the medial management of mild, moderate, and severe ulcerative colitis. Progression along arrows is indicated if prior therapies fail. For mild to moderate disease the first-line therapy is 5-ASA agents. If this is ineffective, steroids can be used to induce remission.",
+          "confidence": 0.9281033
+        },
+        {
+          "title": "Ulcerative colitis: an update - PMC - PubMed Central (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8002778/",
+          "snippet": "Ulcerative colitis is a relapsing and remitting disease that is increasing in incidence and prevalence. Management aims to achieve rapid resolution of symptoms, mucosal healing and improvement in a patient's quality of life. 5-aminosalicylate acid medications remain the first-line treatment for mild to moderate disease.",
+          "confidence": 0.9147261
+        },
+        {
+          "title": "New guideline provides recommendations for the treatment of mild-to ...",
+          "url": "https://gastro.org/press-releases/new-guideline-provides-recommendations-for-the-treatment-of-mild-to-moderate-ulcerative-colitis/",
+          "snippet": "The guideline recommends the following for the medical management of mild-to-moderate ulcerative colitis: 1. Use either standard dose mesalamine (2-3 grams/day) or diazo-bonded 5-ASA rather than low dose mesalamine, sulfasalazine or no treatment in patients with extensive mild-moderate UC. (Strong recommendation, moderate quality evidence) 2.",
+          "confidence": 0.8785752
+        },
+        {
+          "title": "Medication Options for Ulcerative Colitis",
+          "url": "https://www.crohnscolitisfoundation.org/patientsandcaregivers/what-is-ulcerative-colitis/medication",
+          "snippet": "Medication is the first line of treatment for ulcerative colitis. Your doctor's recommendation for which medication will work best for you is based on the severity of your disease, your overall health, and other individual factors. There are six major classes of medication used to treat ulcerative colitis.",
+          "confidence": 0.80625874
+        },
+        {
+          "title": "Which Drugs Are First-Line Treatments for UC? The Surprising Answers",
+          "url": "https://www.mycrohnsandcolitisteam.com/resources/what-are-first-line-and-second-line-treatments-for-ulcerative-colitis",
+          "snippet": "On MyCrohnsAndColitisTeam, more than 182,000 members come together to ask questions, give advice, and share their stories with others who understand life with ulcerative colitis. What was your first-line treatment for ulcerative colitis? Share your experience in the comments below, or start a conversation by posting on your Activities page.",
+          "confidence": 0.7
+        },
+        {
+          "title": "How to Treat Mild Ulcerative Colitis - WebMD",
+          "url": "https://www.webmd.com/ibd-crohns-disease/ulcerative-colitis/treat-mild-ulcerative-colitis",
+          "snippet": "Changes to Make to Your Diet To Help With UC. Eating a healthy and well-balanced diet is important even for mild cases of ulcerative colitis. This could help prevent it from getting worse.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Medication Options for Ulcerative Colitis",
+          "url": "https://www.crohnscolitisfoundation.org/patientsandcaregivers/what-is-ulcerative-colitis/medication",
+          "snippet": "Medication is the first line of treatment for ulcerative colitis. Your doctor's recommendation for which medication will work best for you is based on the severity of your disease, your overall health, and other individual factors. ... Aminosalicylates are thought to be effective in treating mild-to-moderate ulcerative colitis flares and can ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "AGA Clinical Practice Guidelines on the Management of Mild-to-Moderate ...",
+          "url": "https://www.gastrojournal.org/article/S0016-5085(18)35407-6/fulltext",
+          "snippet": "This document presents the official recommendations of the American Gastroenterological Association (AGA) on the management of mild-to-moderate ulcerative colitis (UC). The guideline was developed by the AGA Institute's Clinical Guidelines Committee and approved by the AGA Institute Governing Board. It is accompanied by a technical review1 that is a compilation of the clinical evidence on ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Ulcerative Colitis: Rapid Evidence Review - AAFP",
+          "url": "https://www.aafp.org/pubs/afp/issues/2022/0400/p406.html",
+          "snippet": "First-line therapy for moderate to severe ulcerative colitis is biologics. 14 Biologic agents with or without glucocorticoids and immune modulators should be used to induce and maintain remission.",
+          "confidence": 0.7
+        },
+        {
+          "title": "New guideline provides recommendations for the treatment of mild-to ...",
+          "url": "https://gastro.org/press-releases/new-guideline-provides-recommendations-for-the-treatment-of-mild-to-moderate-ulcerative-colitis/",
+          "snippet": "The guideline recommends the following for the medical management of mild-to-moderate ulcerative colitis: 1. Use either standard dose mesalamine (2-3 grams/day) or diazo-bonded 5-ASA rather than low dose mesalamine, sulfasalazine or no treatment in patients with extensive mild-moderate UC. (Strong recommendation, moderate quality evidence) 2.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Ulcerative Colitis—Diagnostic and Therapeutic Algorithms - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8171548/",
+          "snippet": "The first-line treatment of mild to moderate left-sided ulcerative colitis should consist of combined oral and rectal mesalamine . Left-sided ulcerative colitis with mild to moderate inflammatory activity that does not respond to mesalamine can be treated with oral budesonide-MMX (e7, e8). Figure 1.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Ulcerative colitis - Treatment - NHS",
+          "url": "https://www.nhs.uk/conditions/ulcerative-colitis/treatment/",
+          "snippet": "They're usually the first treatment option for mild or moderate ulcerative colitis. 5-ASAs can be used as a short-term treatment for flare-ups. They can also be taken long term, usually for the rest of your life, to maintain remission. 5-ASAs can be taken: orally - by swallowing a tablet or capsule",
+          "confidence": 0.7
+        },
+        {
+          "title": "Oral 5-ASA therapy in ulcerative colitis: what are the ... - PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18277908/",
+          "snippet": "5-aminosalicylic acid (5-ASA) is the standard first-line treatment for mild-to-moderate ulcerative colitis. A variety of 5-ASA delivery systems are available and in development, including both oral and rectal formulations; all of which aim to deliver the active drug to the colon while minimizing systemic absorption.",
+          "confidence": 0.7
+        },
+        {
+          "title": " Lay Version of Canadian UC Clinical Practice Guidelines",
+          "url": "https://www.crohnsandcolitis.ca/Crohns_and_Colitis/documents/LAY-VERSION-OF-CANADIAN-UC-CLINICAL-PRACTICE-GUIDELINES_1.PDF",
+          "snippet": "5-ASA treatment is typically the first-line treatment for patients with mild to moderate active UC to bring about complete remission. Treatment steps 5-Aminosalicylates (5-ASA) guidelines Mild to moderate ulcerative proctitis A rectal suppository of 5-ASA (1 gram per day) is recommended as an initial treatment to bring about symptomatic remission",
+          "confidence": 0.7
+        },
+        {
+          "title": "Which Drugs Are First-Line Treatments for UC? The Surprising Answers",
+          "url": "https://www.mycrohnsandcolitisteam.com/resources/what-are-first-line-and-second-line-treatments-for-ulcerative-colitis",
+          "snippet": "On MyCrohnsAndColitisTeam, more than 182,000 members come together to ask questions, give advice, and share their stories with others who understand life with ulcerative colitis. What was your first-line treatment for ulcerative colitis? Share your experience in the comments below, or start a conversation by posting on your Activities page.",
+          "confidence": 0.48440504
+        }
+      ],
+      "confidence_score": 0.8404827351999999
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:40:48.967754"
+  },
+  {
+    "question": "How do you interpret a positive anti-tissue transglutaminase (tTG) IgA test in a symptomatic adult?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- Here's how you can interpret these test results: Anti-TTG IgA Test: Negative Result (Below the Reference Range): If your Anti-TTG IgA test result falls below the established reference range (typically less than 4 U/mL or IU/mL), it is usually considered negative or normal. A negative result suggests a low likelihood of celiac disease.\n\n- Positive Test Result. A positive tTG IgA blood test result means that the immune system has produced antibodies against tissue transglutaminase, suggesting an immune response to gluten. This strongly indicates the presence of celiac disease. However, a positive result is typically followed by an intestinal biopsy to confirm the diagnosis.\n\n- The EMA-IgA test has a sensitivity of 86-100% and a specificity of 97-100%. It is less preferred to tTG-IgA because it is more expensive and time-consuming. Additionally, the EMA-IgA results are qualitative rather than quantitative, making them more subjective than tTG-IgA results. Healthcare providers often reserve this test as a follow-up to ...\n\n- Here's how you can interpret these test results: Anti-TTG IgA Test: Negative Result (Below the Reference Range): If your Anti-TTG IgA test result falls below the established reference range (typically less than 4 U/mL or IU/mL), it is usually considered negative or normal. A negative result suggests a low likelihood of celiac disease.",
+      "sources": [
+        {
+          "title": "How To Interpret Your Celiac Blood Test Results - Rupa Health",
+          "url": "https://www.rupahealth.com/post/how-to-interpret-your-celiac-blood-test-results",
+          "snippet": "The EMA-IgA test has a sensitivity of 86-100% and a specificity of 97-100%. It is less preferred to tTG-IgA because it is more expensive and time-consuming. Additionally, the EMA-IgA results are qualitative rather than quantitative, making them more subjective than tTG-IgA results. Healthcare providers often reserve this test as a follow-up to ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Anti TTG (Anti-tissue Transglutaminase) Antibodies Test",
+          "url": "https://www.labtestsguide.com/anti-ttg-anti-tissue-transglutaminase-antibodies-test",
+          "snippet": "Here's how you can interpret these test results: Anti-TTG IgA Test: Negative Result (Below the Reference Range): If your Anti-TTG IgA test result falls below the established reference range (typically less than 4 U/mL or IU/mL), it is usually considered negative or normal. A negative result suggests a low likelihood of celiac disease.",
+          "confidence": 0.7
+        },
+        {
+          "title": "What Is a Tissue Transglutaminase IgA Test? - WebMD",
+          "url": "https://www.webmd.com/digestive-disorders/celiac-disease/what-is-tissue-transglutaminase-iga-test",
+          "snippet": "The tissue transglutaminase IgA test is the most sensitive and effective method of celiac disease testing. It shows positive results in almost 98% of people with celiac disease who eat gluten.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Interpretation of Celiac Disease Blood Test Results",
+          "url": "https://www.celiac.com/celiac-disease/interpretation-of-celiac-disease-blood-test-results-r57/",
+          "snippet": "That is, a patient with celiac disease who has been on a gluten free diet and tests negative for IgA anti-gliadin antibodies, will show a rapid increase in antibody production when challenged by gluten in the diet. Approximately 90% of challenged patients will yield a positive IgA anti-gliadin result within 14-35 days after being challenged.",
+          "confidence": 0.7
+        },
+        {
+          "title": "t-Transglutaminase (tTG) IgA | Healthmatters.io",
+          "url": "https://healthmatters.io/understand-blood-test-results/t-transglutaminase-ttg-iga",
+          "snippet": "A tissue transglutaminase IgA (tTg-IgA) test is used to help doctors diagnose celiac disease or to see how well people with the condition are doing. What is celiac disease? Celiac disease is an autoimmune disorder in which the immune system mistakenly thinks that gluten - a protein in wheat, barley, rye, and oats - is a foreign invader.",
+          "confidence": 0.7
+        },
+        {
+          "title": "How to Diagnose Celiac Disease Using tTG Antibodies Test",
+          "url": "https://thekingsleyclinic.com/resources/how-to-diagnose-celiac-disease-using-ttg-antibodies-test/",
+          "snippet": "Anti-tissue transglutaminase antibodies (tTG antibodies) are proteins produced by the immune system in response to tissue transglutaminase, an enzyme found in the small intestine. In individuals with celiac disease, the immune system mistakenly identifies this enzyme as harmful when gluten is consumed, triggering the production of these antibodies.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Understanding the Tissue Transglutaminase (tTG) Blood Test for Celiac ...",
+          "url": "https://www.walkinlab.com/blog/understanding-the-tissue-transglutaminase-ttg-blood-test-for-celiac-disease/",
+          "snippet": "Additional Blood Tests for Celiac Disease. While the Tissue Transglutaminase (tTG) Blood Test is the primary test for diagnosing celiac disease, other blood tests can provide additional information and help confirm the diagnosis. Here are a few commonly used tests: Total Serum IgA. The total serum IgA test measures the overall level of Immunoglobulin A (IgA) in the blood.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Anti-Tissue Transglutaminase IgA (tTG IgA) | Healthmatters.io",
+          "url": "https://healthmatters.io/understand-blood-test-results/anti-tissue-transglutaminase-iga-ttg-iga",
+          "snippet": "The Anti-Tissue Transglutaminase IgA (tTG IgA) marker is the gold standard test for screening celiac disease, an autoimmune condition triggered by gluten consumption. This test measures IgA antibodies produced by the immune system when it mistakenly targets tissue transglutaminase (tTG) , an enzyme found in the lining of the small intestine.",
+          "confidence": 0.7
+        },
+        {
+          "title": "TTG IGA - Lab Results explained | HealthMatters.io",
+          "url": "https://healthmatters.io/understand-blood-test-results/ttg-iga",
+          "snippet": "The TTG IGA marker is a crucial element in the diagnostic process for celiac disease, offering a high degree of accuracy in identifying this autoimmune disorder. Tissue Transglutaminase (TTG) is an enzyme targeted by the immune system in celiac disease, leading to the production of Immunoglobulin A (IGA) antibodies against it.",
+          "confidence": 0.7
+        },
+        {
+          "title": "RACGP - Interpreting tests for coeliac disease",
+          "url": "https://www1.racgp.org.au/ajgp/2018/january-february/interpreting-tests-for-coeliac-disease-(1)",
+          "snippet": "Option 2: Transglutaminase-IgA (tTG-IgA) + Total IgA level † - If the IgA level is low, perform the deamidated gliadin peptide-IgG (DGP-IgG). MBS item number 71163, single antibody test ($24.75). 3. If tTG-IgA and/or DGP-IgG is positive, irrespective of titre, refer for confirmatory small intestinal biopsy",
+          "confidence": 0.7
+        },
+        {
+          "title": "Anti TTG (Anti-tissue Transglutaminase) Antibodies Test",
+          "url": "https://www.labtestsguide.com/anti-ttg-anti-tissue-transglutaminase-antibodies-test",
+          "snippet": "Here's how you can interpret these test results: Anti-TTG IgA Test: Negative Result (Below the Reference Range): If your Anti-TTG IgA test result falls below the established reference range (typically less than 4 U/mL or IU/mL), it is usually considered negative or normal. A negative result suggests a low likelihood of celiac disease.",
+          "confidence": 0.61279696
+        },
+        {
+          "title": "Understanding the Tissue Transglutaminase (tTG) Blood Test for Celiac ...",
+          "url": "https://www.walkinlab.com/blog/understanding-the-tissue-transglutaminase-ttg-blood-test-for-celiac-disease/",
+          "snippet": "Positive Test Result. A positive tTG IgA blood test result means that the immune system has produced antibodies against tissue transglutaminase, suggesting an immune response to gluten. This strongly indicates the presence of celiac disease. However, a positive result is typically followed by an intestinal biopsy to confirm the diagnosis.",
+          "confidence": 0.59655124
+        },
+        {
+          "title": "What Is a Tissue Transglutaminase IgA Test? - WebMD",
+          "url": "https://www.webmd.com/digestive-disorders/celiac-disease/what-is-tissue-transglutaminase-iga-test",
+          "snippet": "The tissue transglutaminase IgA test is the most sensitive and effective method of celiac disease testing. It shows positive results in almost 98% of people with celiac disease who eat gluten.",
+          "confidence": 0.36452922
+        },
+        {
+          "title": "How To Interpret Your Celiac Blood Test Results - Rupa Health",
+          "url": "https://www.rupahealth.com/post/how-to-interpret-your-celiac-blood-test-results",
+          "snippet": "The EMA-IgA test has a sensitivity of 86-100% and a specificity of 97-100%. It is less preferred to tTG-IgA because it is more expensive and time-consuming. Additionally, the EMA-IgA results are qualitative rather than quantitative, making them more subjective than tTG-IgA results. Healthcare providers often reserve this test as a follow-up to",
+          "confidence": 0.14636794
+        },
+        {
+          "title": "Interpretation of Celiac Disease Blood Test Results",
+          "url": "https://www.celiac.com/celiac-disease/interpretation-of-celiac-disease-blood-test-results-r57/",
+          "snippet": "That is, a patient with celiac disease who has been on a gluten free diet and tests negative for IgA anti-gliadin antibodies, will show a rapid increase in antibody production when challenged by gluten in the diet. Approximately 90% of challenged patients will yield a positive IgA anti-gliadin result within 14-35 days after being challenged.",
+          "confidence": 0.08350859
+        }
+      ],
+      "confidence_score": 0.7521501579999998
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:40:55.104461"
+  },
+  {
+    "question": "When is colonoscopy recommended in patients with irritable bowel syndrome (IBS)?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- A colonoscopy isn't a test that can diagnose irritable bowel syndrome (IBS). However, some people with IBS may have this test in order to look for digestive conditions other than IBS. ... A colonoscopy is not used for routine monitoring of IBS. A colonoscopy might be recommended if there are changes to the severity or frequency of symptoms or\n\n- A healthcare professional is likely to start with a complete medical history, physical exam and tests to rule out other conditions, such as celiac disease and inflammatory bowel disease (IBD). These criteria include belly pain and discomfort averaging at least one day a week in the last three months. This also usually occurs with at least two of the following: pain and discomfort related to defecation, a change in the frequency of defecation, or a change in stool consistency. Care at Mayo Clinic Our caring team of Mayo Clinic experts can help you with your irritable bowel syndrome-related health concerns Start Here More Information Irritable bowel syndrome care at Mayo Clinic Colonoscopy CT scan Flexible sigmoidoscopy Show more related information Treatment Treatment of IBS focuses on relieving symptoms so that you can live as symptom-free as possible.\n\n- A colonoscopy isn't a test that can diagnose irritable bowel syndrome (IBS). However, some people with IBS may have this test in order to look for digestive conditions other than IBS. ... A colonoscopy is not used for routine monitoring of IBS. A colonoscopy might be recommended if there are changes to the severity or frequency of symptoms or ...\n\n- Diagnostic yield of colonoscopy for organic disease in irritable bowel syndrome and its risk factors: A meta-analysis. https://pubmed.ncbi.nlm.nih.gov/36168183/ Yang Q, et al. (2022).",
+      "sources": [
+        {
+          "title": "Colonoscopy and Irritable Bowel Syndrome (IBS): Safety - Verywell Health",
+          "url": "https://www.verywellhealth.com/colonoscopy-irritable-bowel-syndrome-8558879",
+          "snippet": "A colonoscopy isn't a test that can diagnose irritable bowel syndrome (IBS). However, some people with IBS may have this test in order to look for digestive conditions other than IBS. ... A colonoscopy is not used for routine monitoring of IBS. A colonoscopy might be recommended if there are changes to the severity or frequency of symptoms or",
+          "confidence": 0.86981434
+        },
+        {
+          "title": "Colonoscopy and Irritable Bowel Syndrome (IBS): Safety - Verywell Health",
+          "url": "https://www.verywellhealth.com/colonoscopy-irritable-bowel-syndrome-8558879",
+          "snippet": "A colonoscopy isn't a test that can diagnose irritable bowel syndrome (IBS). However, some people with IBS may have this test in order to look for digestive conditions other than IBS. ... A colonoscopy is not used for routine monitoring of IBS. A colonoscopy might be recommended if there are changes to the severity or frequency of symptoms or ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Can colonoscopy make irritable bowel syndrome (IBS) worse?",
+          "url": "https://www.medicalnewstoday.com/articles/colonoscopy-irritable-bowel-syndrome",
+          "snippet": "Diagnostic yield of colonoscopy for organic disease in irritable bowel syndrome and its risk factors: A meta-analysis. https://pubmed.ncbi.nlm.nih.gov/36168183/ Yang Q, et al. (2022).",
+          "confidence": 0.7
+        },
+        {
+          "title": "Irritable bowel syndrome - Diagnosis and treatment - Mayo Clinic",
+          "url": "https://www.mayoclinic.org/diseases-conditions/irritable-bowel-syndrome/diagnosis-treatment/drc-20360064",
+          "snippet": "Colonoscopy. In colonoscopy, a camera attached to a small, flexible tube is used to examine the entire length of the colon. ... This test may be recommended if celiac disease is suspected. Laboratory tests can include: Lactose intolerance tests. ... New insights into irritable bowel syndrome: From pathophysiology to treatment. Annals of ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "ACG Clinical Guideline: Management of Irritable Bowel Syndrome - LWW",
+          "url": "https://journals.lww.com/ajg/fulltext/2021/01000/acg_clinical_guideline__management_of_irritable.11.aspx",
+          "snippet": "Irritable bowel syndrome (IBS) is a highly prevalent, chronic disorder that significantly reduces pa ... colonoscopy has been recommended in patients with IBS symptoms and without warning signs because it has been suggested that pain during ... et al. Efficacy of carbon dioxide-insufflating colonoscopy in patients with irritable bowel syndrome ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Colonoscopy and Sigmoidoscopy for Irritable Bowel Syndrome (IBS)",
+          "url": "https://irritablebowelsyndrome.net/testing-and-diagnosis/colonoscopy-sigmoidoscopy",
+          "snippet": "When a person complains of symptoms such as diarrhea, constipation, bloating, or abdominal pain and gas, a doctor may order a colonoscopy or sigmoidoscopy. The exam will help them determine whether the cause is IBS or a different medical issue. 1,2. Colonoscopy and sigmoidoscopy may be used in cases of: 2 Changes in bowel activity, such as constipation or diarrhea",
+          "confidence": 0.7
+        },
+        {
+          "title": "Evidence-based clinical practice guidelines for irritable bowel ...",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7932982/",
+          "snippet": "Managing irritable bowel syndrome (IBS) has attracted international attention because single-agent therapy rarely relieves bothersome symptoms for all patients. The Japanese Society of Gastroenterology (JSGE) published the first edition of evidence-based clinical practice guidelines for IBS in 2015.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Benefits of colonoscopy outweigh risk of IBS flare - UCLA Health",
+          "url": "https://www.uclahealth.org/news/article/benefits-of-colonoscopy-outweigh-risk-of-ibs-flare",
+          "snippet": "Irritable bowel syndrome, or IBS, is a disorder that causes pain, discomfort and dysfunction in the large intestine. In addition to cramping, bloating, gas and abdominal pain, people with IBS experience ongoing episodes of diarrhea or constipation, and often both. There is no cure, which makes it a chronic condition.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Irritable Bowel Syndrome (IBS) Workup - Medscape",
+          "url": "https://emedicine.medscape.com/article/180389-workup",
+          "snippet": "Irritable bowel syndrome (IBS) is a functional GI disorder characterized by abdominal pain and altered bowel habits in the absence of a specific and unique organic pathology. ... Routine colonoscopy is not recommended in patients younger than 45 years without alarm symptoms or signs (ie, hematochezia, melena, unintentional weight loss, older ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Irritable Bowel Syndrome (IBS) - Gastrointestinal Disorders - Merck ...",
+          "url": "https://www.merckmanuals.com/professional/gastrointestinal-disorders/irritable-bowel-syndrome-ibs/irritable-bowel-syndrome-ibs",
+          "snippet": "Irritable Bowel Syndrome (IBS) - Etiology, pathophysiology, symptoms, signs, diagnosis & prognosis from the Merck Manuals ... Colonoscopy is recommended for patients > age 45 to exclude colonic polyps and tumors. The mucosal and vascular patterns in IBS usually appear normal. In patients with chronic diarrhea (≥ 3 loose stools a day for at ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "What to Know About Colonoscopy for Irritable Bowel Syndrome",
+          "url": "https://drkelley.net/2024/02/29/what-to-know-about-colonoscopy-for-irritable-bowel-syndrome/",
+          "snippet": "Doctors do not recommend routine colonoscopy to diagnose people with irritable bowel syndrome (IBS). However, they may refer individuals to rule out other conditions, such as inflammatory bowel disease (IBD). IBS is a functional gastrointestinal disorder that can cause changes in bowel movements, such as diarrhea, constipation, or both. Someone with IBS needs to discuss […]",
+          "confidence": 0.7
+        },
+        {
+          "title": "Irritable bowel syndrome - Diagnosis and treatment - Mayo Clinic",
+          "url": "https://www.mayoclinic.org/diseases-conditions/irritable-bowel-syndrome/diagnosis-treatment/drc-20360064",
+          "snippet": "A healthcare professional is likely to start with a complete medical history, physical exam and tests to rule out other conditions, such as celiac disease and inflammatory bowel disease (IBD). These criteria include belly pain and discomfort averaging at least one day a week in the last three months. This also usually occurs with at least two of the following: pain and discomfort related to defecation, a change in the frequency of defecation, or a change in stool consistency. Care at Mayo Clinic Our caring team of Mayo Clinic experts can help you with your irritable bowel syndrome-related health concerns Start Here More Information Irritable bowel syndrome care at Mayo Clinic Colonoscopy CT scan Flexible sigmoidoscopy Show more related information Treatment Treatment of IBS focuses on relieving symptoms so that you can live as symptom-free as possible.",
+          "confidence": 0.6485337
+        },
+        {
+          "title": "Can colonoscopy make irritable bowel syndrome (IBS) worse?",
+          "url": "https://www.medicalnewstoday.com/articles/colonoscopy-irritable-bowel-syndrome",
+          "snippet": "Diagnostic yield of colonoscopy for organic disease in irritable bowel syndrome and its risk factors: A meta-analysis. https://pubmed.ncbi.nlm.nih.gov/36168183/ Yang Q, et al. (2022).",
+          "confidence": 0.59796065
+        },
+        {
+          "title": "Benefits of colonoscopy outweigh risk of IBS flare - UCLA Health",
+          "url": "https://www.uclahealth.org/news/article/benefits-of-colonoscopy-outweigh-risk-of-ibs-flare",
+          "snippet": "Irritable bowel syndrome, or IBS, is a disorder that causes pain, discomfort and dysfunction in the large intestine. In addition to cramping, bloating, gas and abdominal pain, people with IBS experience ongoing episodes of diarrhea or constipation, and often both. There is no cure, which makes it a chronic condition.",
+          "confidence": 0.5082762
+        },
+        {
+          "title": "Evidence-based clinical practice guidelines for irritable bowel ...",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7932982/",
+          "snippet": "Intestinal secretagogues are effective and are recommended for use in patients with IBS-C. Members: Masahiko Inamori (Department of Medical Education, Yokohama City University School of Medicine), Yusuke Okuyama (Department of Gastroenterology, Japanese Red Cross Kyoto Daiichi Hospital), Motoyori Kanazawa (Department of Behavioral Medicine, Tohoku University GraduateSchool of Medicine), Takeshi Kamiya (Department of Gastroenterology and Metabolism, Nagoya City University), Ken Sato (Department of Gastroenterology and Hematology, Hirosaki University Graduate School of Medical Sciences), Akiko Shiotani (Department of Internal Medicine, Kawasaki Medical School), Yuji Naito (Department of Gastroenterology, Kyoto Prefectural University of Medicine), Yoshiko Fujikawa (Department of Gastroenterology, Higashisumiyoshi Morimoto Hospital), Ryota Hokari (Department of Gastroenterology, National Defense Medical College), Tastuhiro Masaoka (Department of Gastroenterology, Keio University School of Medicine)",
+          "confidence": 0.41520765
+        }
+      ],
+      "confidence_score": 0.8015917016
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:41:01.718247"
+  },
+  {
+    "question": "What is the pathophysiology behind hepatic encephalopathy in cirrhosis?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- The treatment of hepatic encephalopathy. Metab Brain Dis. 2007;22:389-405. doi: 10.1007/s11011-007-9060-7. [Google Scholar] 24. Butterworth RF, Kircheis G, Hilger N, et al. Efficacy of l-ornithine l-aspartate for the treatment of hepatic encephalopathy in cirrhosis: systematic review and meta-analysis of randomized controlled trials.\n\n- Cirrhosis is the 12 th leading cause of death in the United States (US), accounting for more than 36,000 deaths and having a death rate of 11.5 per 100,000 in 2013.1 Hepatic encephalopathy (HE) is one of the most debilitating complications of cirrhosis and severely affects the lives of patients and their caregivers.2 HE embodies a spectrum of ...",
+      "sources": [
+        {
+          "title": "Hepatic Encephalopathy in Cirrhosis: Pathology and Pathophysiology",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6416236/",
+          "snippet": "The treatment of hepatic encephalopathy. Metab Brain Dis. 2007;22:389-405. doi: 10.1007/s11011-007-9060-7. [Google Scholar] 24. Butterworth RF, Kircheis G, Hilger N, et al. Efficacy of l-ornithine l-aspartate for the treatment of hepatic encephalopathy in cirrhosis: systematic review and meta-analysis of randomized controlled trials.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Hepatic Encephalopathy: An Update on the Pathophysiology and ...",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5472935/",
+          "snippet": "Cirrhosis is the 12 th leading cause of death in the United States (US), accounting for more than 36,000 deaths and having a death rate of 11.5 per 100,000 in 2013.1 Hepatic encephalopathy (HE) is one of the most debilitating complications of cirrhosis and severely affects the lives of patients and their caregivers.2 HE embodies a spectrum of ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Hepatic Encephalopathy - StatPearls - NCBI Bookshelf",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK430869/",
+          "snippet": "Hepatic encephalopathy is characterized by a range of neuropsychiatric abnormalities caused by the accumulation of neurotoxic substances in the bloodstream of patients with liver dysfunction. It is considered a diagnosis of exclusion. The condition differs in patients with chronic liver disease compared to those with acute liver failure or acute-on-chronic liver failure (ACLF), with ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Pathophysiological mechanisms of hepatic encephalopathy - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6490455/",
+          "snippet": "The role of ammonia in the development of hepatic encephalopathy. Decreased hepatic urea‐cycle metabolism in the context of liver cirrhosis and/or portosystemic shunting leads to the accumulation of ammonia (NH 3), a product of protein catabolism, in the systemic circulation.Ammonia readily crosses the blood-brain barrier and is metabolized in a cerebral detoxification pathway by GS, with ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Hepatic Encephalopathy in Cirrhosis: Pathology and Pathophysiology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30706423/",
+          "snippet": "Neuropathology of hepatic encephalopathy (HE) in cirrhosis is primarily astroglial in nature characterized by Alzheimer type 2 astrocytosis together with activation of microglia indicative of neuroinflammation. Focal loss of neurons may also occur in the basal ganglia, thalamus and cerebellum. Patho …",
+          "confidence": 0.7
+        },
+        {
+          "title": "Hepatic Encephalopathy: Symptoms, Causes, Grading & Treatment",
+          "url": "https://my.clevelandclinic.org/health/diseases/21220-hepatic-encephalopathy",
+          "snippet": "Hepatic encephalopathy is one factor affecting your life expectancy. The conditions causing it are others. Healthcare providers can't predict life expectancy in every scenario. For example, if you have hepatic encephalopathy with acute liver failure, this is an emergency that you may or may not survive.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Hepatic Encephalopathy: Current Thoughts on Pathophysiology and ...",
+          "url": "https://link.springer.com/article/10.1007/s11910-025-01415-9",
+          "snippet": "Hepatic encephalopathy (HE) is a broad spectrum of neurological and/or psychiatric abnormalities caused by hepatic insufficiency and/or portal-systemic shunting in absence of any other causes of brain dysfunction. The prevalence of HE in patients with liver cirrhosis is approximately 20-80% .",
+          "confidence": 0.7
+        },
+        {
+          "title": "Pathophysiology of hepatic encephalopathy and future treatment options ...",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2255534X19300477",
+          "snippet": "Hepatic encephalopathy (HE) presents in 30-60% of patients with cirrhosis of the liver. It is a clinical expression of a spectrum of potentially reversible neuropsychiatric abnormalities secondary to the accumulation of neurotoxic substances in brain tissue that is proportional to the synthetic function and functional reserve of the liver.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Pathophysiology of Hepatic Encephalopathy - PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32245525/",
+          "snippet": "Hepatic encephalopathy (HE) is one of the major clinical decompensations of cirrhosis, with a high impact on health care resource utilization and cost. ... Pathophysiology of Hepatic Encephalopathy Clin Liver Dis. 2020 May;24(2):175-188. doi: 10.1016/j.cld.2020.01.002. Epub 2020 Feb 19. ... Liver Cirrhosis / complications Manganese / metabolism ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Pathophysiology of Hepatic Encephalopathy - Clinics in Liver Disease",
+          "url": "https://www.liver.theclinics.com/article/S1089-3261(20)30002-7/fulltext",
+          "snippet": "Hepatic encephalopathy (HE) is one of the major clinical decompensations of cirrhosis, with a high impact on health care resource utilization and cost. For an effective and comprehensive management of HE, the clinicians need to understand the pathophysiologic mechanisms of HE. This review describes the multiorgan processes involved in HE and how several HE precipitants and treatment strategies ...",
+          "confidence": 0.7
+        }
+      ],
+      "confidence_score": 0.8200000000000001
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:41:06.319392"
+  },
+  {
+    "question": "What stool findings support a diagnosis of chronic pancreatitis?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- Chronic pancreatitis is a permanent, progressive destruction of pancreatic tissue and function. Clinical manifestations include disabling abdominal pain, steatorrhea, and diabetes mellitus. 1 ...\n\n- The fat in the stool makes the stool greasy or oily. Patients with chronic pancreatitis may also notice oil drops on the toilet water's surface. 3. Floating stools. The high-fat content of the stool in patients with chronic pancreatitis prevents the stool from being soaked in water. As a result, your stool maintains its low density and floats ...",
+      "sources": [
+        {
+          "title": "Chronic Pancreatitis: Diagnosis and Treatment - AAFP",
+          "url": "https://www.aafp.org/pubs/afp/issues/2018/0315/p385.html",
+          "snippet": "Chronic pancreatitis is a permanent, progressive destruction of pancreatic tissue and function. Clinical manifestations include disabling abdominal pain, steatorrhea, and diabetes mellitus. 1 ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "9 Common Stool Changes with Pancreatitis (With color illustrations).",
+          "url": "https://www.oh-mygut.com/pancreatitis-stool-changes-pictures/",
+          "snippet": "The fat in the stool makes the stool greasy or oily. Patients with chronic pancreatitis may also notice oil drops on the toilet water's surface. 3. Floating stools. The high-fat content of the stool in patients with chronic pancreatitis prevents the stool from being soaked in water. As a result, your stool maintains its low density and floats ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Diagnosing Chronic Pancreatitis - PMC - PubMed Central (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5478450/",
+          "snippet": "However, even when autopsy tissue is reviewed for CP diagnosis there are profound age-related findings that may be confused for changes related to chronic pancreatitis 22. A true diagnosis of chronic pancreatitis may not be made simply by clinical history, imaging or function testing alone, but rather by evidence gathered by a combination of ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Chronic pancreatitis: Clinical manifestations and diagnosis ... - UpToDate",
+          "url": "https://www.uptodate.com/contents/chronic-pancreatitis-clinical-manifestations-and-diagnosis-in-adults",
+          "snippet": "While chronic pancreatitis can be diagnosed easily when end-stage features have developed, the clinical challenge is making an accurate diagnosis early in the clinical course when interventions to prevent progression might be most effective. This topic reviews the clinical manifestations and diagnosis of chronic pancreatitis.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Chronic Pancreatitis | Choose the Right Test - ARUP Consult",
+          "url": "https://arupconsult.com/content/pancreatitis-chronic",
+          "snippet": "Diagnosis of chronic pancreatitis is difficult early in the disease course, and the laboratory tests used for chronic pancreatitis have limited sensitivity for early-stage disease. No single test can be used for diagnosis. , , Instead, a combination of clinical examination, functional testing, and imaging is typically needed to make a diagnosis.",
+          "confidence": 0.7
+        },
+        {
+          "title": "Chronic Pancreatitis - Oxford Medical Education",
+          "url": "https://oxfordmedicaleducation.com/gastroenterology/chronic-pancreatitis/",
+          "snippet": "Differential diagnosis of chronic pancreatitis. Acute pancreatitis; Pancreatic cancer . Diagnostic criteria. Direct biopsy if the pancreas is usually too risky; Diagnosis is a combination of clinical findings and investigation results; See below for investigations . Initial management of chronic pancreatitis. Imaging: Ultrasound - often non ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Chronic Pancreatits - Gastrointestinal - Medbullets Step 2/3",
+          "url": "https://step2.medbullets.com/gastrointestinal/120171/chronic-pancreatits",
+          "snippet": "should not be used for the diagnosis of chronic pancreatitis. CBC, electrolytes, and liver functions tests ... stool elastase ( 200 mcg/g) low serum trypsinogen ( 20ng/mL) Differential. Pancreatic cancer. differentiating factors. lesion will be visible on imaging with further support from ERCP findings if needed. Acute pancreatitis ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Chronic Pancreatitis - StatPearls - NCBI Bookshelf",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK482325/",
+          "snippet": "The pancreas is an accessory organ of digestion known to have dual functions in the endocrine and exocrine systems. This organ is necessary for the hydrolysis of macromolecules, including proteins, carbohydrates, and fats (in combination with bile from the common bile duct). The pancreas has a main pancreatic duct running through the length of it, an accessory duct, and many various cell types ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Chronic pancreatitis laboratory findings - wikidoc",
+          "url": "https://www.wikidoc.org/index.php/Chronic_pancreatitis_laboratory_findings",
+          "snippet": "Laboratory Findings. The diagnosis of chronic pancreatitis is typically based on tests on pancreatic structure and function, as direct biopsy of the pancreas is considered excessively risky. ... It can be done with a single random stool sample. ... \"Chronic pancreatitis: diagnosis, classification, and new genetic developments\". Gastroenterology ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Pancreitis and Poop Smell: Common Stool Changes With Pancreatitis",
+          "url": "https://www.allfitwell.com/common-stool-changes-with-pancreatitis/",
+          "snippet": "By addressing these factors, individuals can better manage symptoms, support their digestive system, and boost overall well-being. ... Hard-to-Flush Stools. In chronic pancreatitis, changes in stool texture and appearance can signal deeper issues with digestion. The pancreas, when impaired, struggles to produce enzymes needed to fracture fat ...",
+          "confidence": 0.7
+        }
+      ],
+      "confidence_score": 0.8020000000000002
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:41:11.745236"
+  },
+  {
+    "question": "In a patient with Barrett’s esophagus, what is the standard surveillance recommendation?",
+    "response": {
+      "answer": "Based on the information I found:\n\n- surveillance in patients with Barrett's esophagus (BE) and is based on systematic reviews of the evidence using the Grading of Recommendations, Assessment, Develop-ment and Evaluation methodology. The document ad-dresses key clinical questions that include the role and impact of screening and surveillance and the utility of\n\n- Recent population studies suggest that gastroesophageal reflux disease (GERD) is increasing in prevalence, both in the United States and worldwide (1,2).The diagnosis of GERD is associated with a 10-15% risk of Barrett's esophagus (BE), a change of the normal squamous epithelium of the distal esophagus to a columnar-lined intestinal metaplasia (IM).",
+      "sources": [
+        {
+          "title": "PDF",
+          "url": "https://www.asge.org/docs/default-source/guidelines/asge-guideline-on-screening-and-surveillance-of-barrett-s-esophagus-2019-september-gie.pdf?sfvrsn=a562d352_2",
+          "snippet": "surveillance in patients with Barrett's esophagus (BE) and is based on systematic reviews of the evidence using the Grading of Recommendations, Assessment, Develop-ment and Evaluation methodology. The document ad-dresses key clinical questions that include the role and impact of screening and surveillance and the utility of",
+          "confidence": 0.7
+        },
+        {
+          "title": "ACG Clinical Guideline: Diagnosis and Management of Barrett's Esophagus",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10245082/",
+          "snippet": "Recent population studies suggest that gastroesophageal reflux disease (GERD) is increasing in prevalence, both in the United States and worldwide (1,2).The diagnosis of GERD is associated with a 10-15% risk of Barrett's esophagus (BE), a change of the normal squamous epithelium of the distal esophagus to a columnar-lined intestinal metaplasia (IM).",
+          "confidence": 0.7
+        },
+        {
+          "title": "ASGE guideline on screening and surveillance of Barrett's esophagus",
+          "url": "https://www.giejournal.org/article/s0016-5107(19)31704-3/fulltext",
+          "snippet": "This document is the official American Society for Gastrointestinal Endoscopy guideline on screening and surveillance in patients with Barrett's esophagus (BE) and is based on systematic reviews of the evidence using the Grading of Recommendations, Assessment, Development and Evaluation methodology. The document addresses key clinical questions that include the role and impact of screening ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "PDF",
+          "url": "https://acgcdn.gi.org/wp-content/uploads/2018/04/ACG-Barretts-Esophagus-Guideline-Summary.pdf",
+          "snippet": "Surveillance of BE 13. Patients should only undergo surveillance after adequate counseling regarding risks and beneﬁts of surveillance (strong recommendation, very low level of evidence). 14. Surveillance should be performed with high-deﬁnition/high -resolution white light endoscopy (strong recommendation, low level of evidence).",
+          "confidence": 0.7
+        },
+        {
+          "title": "Diagnosis and Management of Barrett's Esophagus: An Updated ACG ...",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10259184/",
+          "snippet": "Barrett's esophagus (BE) is a common condition associated with chronic gastroesophageal reflux disease. ... As such, it is our recommendation that surveillance for patients with <3 cm be extended to 5 years. Patients with a segment length of ≥3 cm undergo surveillance at 3-year intervals. ... Standard of care: Examine the Barrett's ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "ASGE Recommendations for Screening and Surveillance of Barrett's Esophagus",
+          "url": "https://www.gastroenterologyadvisor.com/news/asge-recommendations-for-screening-and-surveillance-of-barretts-esophagus/",
+          "snippet": "The ASGE suggests routine surveillance endoscopy in patients with nondysplastic Barrett's esophagus vs no surveillance (conditional recommendation, very low quality of evidence). They further endorsed the previous clinical practice guidelines' recommendation that surveillance endoscopy be performed every 3 to 5 years in this patient population.",
+          "confidence": 0.7
+        },
+        {
+          "title": "New ACG Barrett's Esophagus Guideline - American College of ...",
+          "url": "https://gi.org/2015/11/06/new-acg-barretts-esophagus-guideline/",
+          "snippet": "These guidelines continue to endorse screening of high-risk patients for Barrett's esophagus; however, routine screening is limited to men with reflux symptoms and multiple other risk factors. ... The most important of these changes is the recommendation that females with GERD symptoms no longer undergo routine screening. ... surveillance ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Barrett's oesophagus and stage 1 oesophageal adenocarcinoma: monitoring ...",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK595264/",
+          "snippet": "The committee noted this is the current standard of care for endoscopic surveillance for Barrett's oesophagus. The committee agreed that the risk of complications of endoscopic surveillance should be considered on an individual basis because the frequency and consequences of complications will vary depending on a range of factors, including age ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Barrett's Oesophagus Care Guidelines | BSG",
+          "url": "https://www.bsg.org.uk/clinical-resource/bsg-guidelines-barrett’s-oesophagus",
+          "snippet": "The new recommendation is that patients with LGD should have a repeat endoscopy in 6 months time. If LGD is found in any of the follow up OGDs and is confirmed by an expert GI pathologist, the patient should be offered endoscopic ablation therapy after review by the specialist MDT. If ablation is not undertaken, 6-montly surveillance is ...",
+          "confidence": 0.7
+        },
+        {
+          "title": "Best Practices in Surveillance for Barrett'S Esophagus",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7684982/",
+          "snippet": "Introduction. Barrett's esophagus (BE) is a premalignant condition characterized by the replacement of the normal esophageal squamous epithelium with metaplastic intestinal-type columnar epithelium. 1 This change occurs due to the repetitive exposure of the distal esophagus to refluxate which results in chronic injury and metaplastic changes. 2, 3 Once these changes are identified ...",
+          "confidence": 0.7
+        }
+      ],
+      "confidence_score": 0.8200000000000001
+    },
+    "status_code": 200,
+    "timestamp": "2025-05-07T12:41:17.085719"
+  }
+]

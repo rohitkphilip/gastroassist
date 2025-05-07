@@ -1,0 +1,11 @@
+Question #,Question,Status,Answer Length,Confidence,Sources Count
+1,What is the most likely cause of chronic epigastric pain that improves with meals?,Success,1685,0.7746531756000001,15
+2,How does Helicobacter pylori contribute to peptic ulcer disease?,Success,1443,0.8394609211999999,15
+3,What are the red flag symptoms in a patient with dyspepsia that warrant urgent endoscopy?,Success,1421,0.8100247716,15
+4,"In a patient with elevated liver enzymes, how would you differentiate between hepatocellular and cho...",Success,808,0.8200000000000001,10
+5,What is the first-line treatment for mild to moderate ulcerative colitis?,Success,1186,0.8404827351999999,15
+6,How do you interpret a positive anti-tissue transglutaminase (tTG) IgA test in a symptomatic adult?,Success,1410,0.7521501579999998,15
+7,When is colonoscopy recommended in patients with irritable bowel syndrome (IBS)?,Success,1788,0.8015917016,15
+8,What is the pathophysiology behind hepatic encephalopathy in cirrhosis?,Success,724,0.8200000000000001,10
+9,What stool findings support a diagnosis of chronic pancreatitis?,Success,584,0.8020000000000002,10
+10,"In a patient with Barrett’s esophagus, what is the standard surveillance recommendation?",Success,717,0.8200000000000001,10
