@@ -41,7 +41,8 @@ def test_tavily_api():
         "include_answer": False,
         "include_images": False,
         "include_raw_content": False,
-        "max_results": 1
+        "max_results": 1,
+        "topic": "general"  # Explicitly set topic to "general"
     }
     
     # Make the API request

@@ -79,7 +79,7 @@ class TestTavilySearch:
             args, kwargs = mock_post.call_args
             
             # Check medical-specific parameters
-            assert kwargs["json"]["topic"] == "medical"
+            assert kwargs["json"]["topic"] == "general"  # Changed from "medical" to "general"
             assert kwargs["json"]["search_depth"] == "comprehensive"
             assert "search_filters" in kwargs["json"]
             assert "include_domains" in kwargs["json"]["search_filters"]

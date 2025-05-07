@@ -25,14 +25,14 @@ class TavilySearch:
         
         Args:
             query: The search query
-            search_depth: Either "basic" or "comprehensive"
+            search_depth: Either "basic" or "advanced"
             filter_medical: Whether to filter results to medical content
             
         Returns:
             List of search results
         """
         # Validate search_depth parameter
-        if search_depth not in ["basic", "comprehensive"]:
+        if search_depth not in ["basic", "advanced"]:
             search_depth = "basic"
         
         # Prepare request headers and payload
@@ -47,14 +47,14 @@ class TavilySearch:
             "include_answer": False,
             "include_images": False,
             "include_raw_content": False,
-            "max_results": 5
+            "max_results": 5,
+            "topic": "general"
         }
         
         # Add medical filter if requested
         if filter_medical:
             # Add medical-specific search parameters
-            payload["topic"] = "medical"
-            # You can also add specific medical sources if Tavily supports them
+            # Note: We're using "general" topic as required by the API
             payload["search_filters"] = {
                 "include_domains": [
                     "pubmed.ncbi.nlm.nih.gov",
