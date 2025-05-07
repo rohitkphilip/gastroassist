@@ -2,88 +2,77 @@
 
 ## High-Level Architecture
 
-```mermaid
----
-id: c4b8efa6-0fe9-4c54-a725-60815f6aaa4e
----
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#f5f5f5', 'primaryTextColor': '#333', 'primaryBorderColor': '#666', 'lineColor': '#666', 'secondaryColor': '#f0f0f0', 'tertiaryColor': '#fff' }}}%%
-flowchart TB
-    subgraph Frontend["🖥️ User Interface"]
-        UI(["Web Interface"])
-        Mobile(["Mobile App"])
-        API(["API Gateway"])
-    end
-    
-    subgraph Core["🧠 Core System"]
-        QP(["Query Processor"])
-        RA(["Reasoning Agent"])
-        KR(["Knowledge Router"])
-    end
-    
-    subgraph Knowledge["📚 Knowledge Sources"]
-        KB(["Gastroenterology KB"])
-        DS(["Dynamic Search"])
-        subgraph Search["🔍 Search Engines"]
-            TS(["Tavily Search"])
-            DG(["DuckDuckGo"])
-        end
-    end
-    
-    subgraph Output["📋 Response Generation"]
-        AG(["Answer Generator"])
-        SC(["Source Compiler"])
-        QA(["Quality Assurance"])
-    end
-    
-    UI --> API
-    Mobile --> API
-    API --> QP
-    QP --> RA
-    RA --> KR
-    KR --> KB
-    KR --> DS
-    DS --> TS
-    DS --> DG
-    KB --> AG
-    TS --> AG
-    DG --> AG
-    AG --> SC
-    SC --> QA
-    QA --> API
-    
-    classDef frontend fill:#a8dadc80,stroke:#457b9d,stroke-width:1px,color:#1d3557,font-family:Arial
-    classDef core fill:#8ecae680,stroke:#219ebc,stroke-width:1px,color:#023047,font-family:Arial
-    classDef knowledge fill:#bee3db80,stroke:#89b0ae,stroke-width:1px,color:#3a506b,font-family:Arial
-    classDef output fill:#e9c46a80,stroke:#f4a261,stroke-width:1px,color:#264653,font-family:Arial
-    
-    class UI,Mobile,API frontend
-    class QP,RA,KR core
-    class KB,DS,TS,DG knowledge
-    class AG,SC,QA output
-```
+![Enhanced GastroAssist Pipeline Flow](../../static/gastroassist-pipeline-diagram.svg)
 
-## Components
+## System Components
+
 1. **Frontend**: Multi-platform interface providing seamless access for gastroenterologists through web and mobile applications, with a secure API gateway for integration with hospital systems.
 
 2. **Core System**: Intelligent processing pipeline that analyzes clinical queries, determines information needs, and routes to appropriate knowledge sources using domain-specific reasoning.
+   - **Query Processor**: Normalizes and preprocesses query text
+   - **Reasoning Agent**: Analyzes the query with medical terminology recognition
+   - **Knowledge Router**: Orchestrates the enhanced pipeline flow
 
-3. **Knowledge Sources**: Dual-source information retrieval combining:
-   - Curated Gastroenterology Knowledge Base: Validated clinical guidelines, research papers, and treatment protocols
-   - Dynamic Search: Real-time information retrieval from medical search engines for latest research and case studies
+3. **Knowledge Pipeline**: Enhanced multi-stage pipeline for accurate information retrieval and summarization:
+   - **Tavily Search**: Specialized medical search for finding relevant content
+   - **Tavily Extract**: Content extraction using Tavily Search API with raw content
+   - **LLM Summarizer**: GPT-3.5 Turbo with medical prompting for concise responses
 
 4. **Response Generation**: Synthesizes information into concise, clinically relevant answers with comprehensive source attribution and quality verification.
+   - **Source Compilation**: Attaches reference information for traceability
+   - **Quality Assurance**: Verifies medical accuracy and completeness
 
 ## Data Flow
+
 1. User submits a gastroenterology-related query through the interface
 2. Query Processor analyzes intent and extracts clinical concepts
-3. Reasoning Agent determines required information sources and query strategy
-4. Knowledge Router retrieves information from static KB and/or dynamic search
-5. Answer Generator synthesizes a concise, contextually relevant response
-6. Source Compiler attaches all reference information for traceability
-7. Quality Assurance verifies medical accuracy and completeness
-8. Response is delivered to user with source attribution
+3. Reasoning Agent identifies medical terminology and determines information needs
+4. Knowledge Router initiates the enhanced pipeline:
+   - Tavily Search finds relevant medical content
+   - Tavily Extract retrieves full content from top results
+   - LLM Summarizer generates concise medical responses
+5. Quality Assurance verifies the response and adds confidence score
+6. Response is delivered to user with proper source attribution
+
+## Integration Architecture
+
+![Frontend-Backend Integration](../../static/gastroassist-frontend-backend-integration.svg)
+
+The frontend and backend integrate through a RESTful API:
+
+- **Frontend Components** (Next.js/React):
+  - QueryInput.tsx: User query interface
+  - ResponseDisplay.tsx: Renders AI responses
+  - SourcesList.tsx: Displays medical sources
+  - Redux Store: Manages application state
+
+- **Backend Components** (FastAPI):
+  - API Endpoints: Process incoming queries
+  - Core Pipeline: Routes queries through the system
+  - Enhanced Pipeline: Tavily Search → Extract → LLM Summarizer
+  - Response Generation: Creates structured responses
+
+## Error Handling Strategy
+
+The system implements multi-tiered error handling at various levels:
+
+1. **Search-Level Fallbacks**:
+   - API authentication failures
+   - Automatic retries for transient errors
+   - Fallback search results
+
+2. **Extraction-Level Fallbacks**:
+   - Primary: Tavily API with raw content
+   - Secondary: Direct HTML extraction
+   - Tertiary: Basic URL information
+
+3. **Summarization-Level Fallbacks**:
+   - Content validation before processing
+   - Null-safety checks throughout
+   - Default responses for edge cases
 
 ## Security Considerations
+
 - HIPAA-compliant data handling and storage
 - End-to-end encryption for all communications
 - Role-based access control for different user types
@@ -91,6 +80,7 @@ flowchart TB
 - Regular security assessments and penetration testing
 
 ## Scalability
+
 - Containerized microservices architecture for independent scaling
 - Distributed knowledge base with caching for high-performance retrieval
 - Asynchronous processing for handling concurrent queries
