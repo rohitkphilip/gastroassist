@@ -26,7 +26,7 @@ Before you begin, please ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-organization/gastroassist.git
+   git clone https://github.com/Suryam1976/gastroassist.git
    cd gastroassist
    ```
 
