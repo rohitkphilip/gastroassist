@@ -1,14 +1,15 @@
 # GastroAssist AI
 
-GastroAssist is an intelligent Q&A system designed specifically for gastroenterologists. This system combines curated medical knowledge with real-time information retrieval to provide concise, source-traced answers to clinical questions.
+GastroAssist is an intelligent Q&A system designed specifically for gastroenterologists. This system leverages advanced search technology and large language models to provide concise, source-traced answers to clinical questions.
 
 ![GastroAssist Logo](https://via.placeholder.com/500x150?text=GastroAssist+AI)
 
 ## 🌟 Key Features
 
-- **Dual knowledge sources**: Combines a curated gastroenterology knowledge base with dynamic search
+- **Enhanced Knowledge Pipeline**: Uses Tavily Search → Tavily Extract → LLM Summarizer to deliver accurate information
 - **Source traceability**: All information includes proper citation for clinical confidence
-- **Intelligent query processing**: Understands medical terminology and the intent behind clinical questions
+- **Intelligent medical reasoning**: Recognizes gastroenterology terminology and understands the intent behind clinical questions
+- **Robust error handling**: Multi-tiered fallback mechanisms ensure reliable operation even when services are unavailable
 - **Web and mobile interfaces**: Access from any device for seamless integration into clinical workflow
 
 ## 🚀 Quick Start Guide
@@ -26,7 +27,7 @@ Before you begin, please ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Suryam1976/gastroassist.git
+   git clone https://github.com/your-organization/gastroassist.git
    cd gastroassist
    ```
 
@@ -82,22 +83,41 @@ Before you begin, please ensure you have the following installed:
    - API documentation: [http://localhost:8000/docs](http://localhost:8000/docs)
    - API health check: [http://localhost:8000](http://localhost:8000)
 
+7. **Run a test query** (optional)
+
+   ```bash
+   # Test the enhanced pipeline with a sample query
+   python scripts/test_pipeline.py "What are the latest guidelines for H. pylori treatment?"
+   ```
+
 ## 📚 Documentation
 
 For more detailed information, please refer to:
 
 - [System Architecture](./docs/architecture/system-overview.md)
-- [Development Setup Guide](./docs/development/setup-guide.md)
-- [Testing Guide](./docs/development/testing-guide.md)
+- [Enhanced Pipeline](./docs/architecture/enhanced-pipeline.md)
+- [Frontend-Backend Integration](./docs/architecture/frontend-backend-integration.md)
+- [Manual Testing Guide](./docs/architecture/manual-testing-guide.md)
+- [Development Roadmap](./docs/roadmap/technical_review_and_roadmap.md)
 - [Troubleshooting](./docs/troubleshooting.md)
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Python, FastAPI, LangChain
-- **Frontend**: Next.js, React, TypeScript
-- **Knowledge Base**: Pinecone Vector Database
-- **Search Integration**: Tavily, DuckDuckGo
-- **LLM**: OpenAI GPT-4
+- **Backend**: Python, FastAPI
+- **Frontend**: Next.js, React, TypeScript, Redux
+- **Enhanced Pipeline**:
+  - **Search**: Tavily Search API
+  - **Extraction**: Tavily Search with Raw Content
+  - **Summarization**: OpenAI GPT-3.5 Turbo with medical prompting
+- **Error Handling**: Multi-tiered fallback mechanisms at each pipeline stage
+
+## 🧪 Testing
+
+GastroAssist includes both automated and manual testing capabilities:
+
+- **Automated Testing**: Use the test_pipeline.py script to test the enhanced pipeline
+- **Manual Testing**: Pre-defined gastroenterology questions in the manual_testing directory
+- **API Testing**: Interactive API documentation at /docs endpoint
 
 ## 🤝 Contributing
 
