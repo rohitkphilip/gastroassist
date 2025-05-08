@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <!-- Background Rectangle with rounded corners -->
+  <rect width="800" height="300" rx="20" ry="20" fill="#f8f9fa"/>
+  
+  <!-- Main Logo Elements -->
+  <g transform="translate(50, 150)">
+    <!-- Stylized Stomach/Digestive System Icon -->
+    <path d="M120,10 C180,-30 250,-20 280,20 C310,60 330,80 310,120 C290,160 250,170 200,160 C150,150 120,170 90,130 C60,90 60,50 120,10 Z" 
+          fill="#e1f5fe" stroke="#0277bd" stroke-width="8" stroke-linejoin="round"/>
+    
+    <!-- Medical Cross Element -->
+    <circle cx="200" cy="80" r="40" fill="#bbdefb"/>
+    <rect x="185" y="55" width="30" height="50" fill="#0277bd" rx="5" ry="5"/>
+    <rect x="175" y="65" width="50" height="30" fill="#0277bd" rx="5" ry="5"/>
+    
+    <!-- AI Circuit Patterns -->
+    <path d="M110,20 L140,50 L170,30 L200,60" stroke="#29b6f6" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M250,40 L280,70 L310,50" stroke="#29b6f6" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M130,120 L160,90 L190,110 L220,80" stroke="#29b6f6" stroke-width="3" fill="none" stroke-linecap="round"/>
+    
+    <!-- Decorative Nodes for Circuit -->
+    <circle cx="140" cy="50" r="4" fill="#01579b"/>
+    <circle cx="170" cy="30" r="4" fill="#01579b"/>
+    <circle cx="280" cy="70" r="4" fill="#01579b"/>
+    <circle cx="160" cy="90" r="4" fill="#01579b"/>
+    <circle cx="190" cy="110" r="4" fill="#01579b"/>
+  </g>
+  
+  <!-- Text Elements -->
+  <g transform="translate(400, 150)">
+    <!-- GastroAssist Text -->
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="60" font-weight="bold" text-anchor="middle" fill="#01579b">
+      Gastro<tspan fill="#039be5">Assist</tspan>
+    </text>
+    
+    <!-- Tagline -->
+    <text x="0" y="40" font-family="Arial, sans-serif" font-size="20" font-style="italic" text-anchor="middle" fill="#546e7a">
+      AI-Powered Gastroenterology Intelligence
+    </text>
+  </g>
+</svg>

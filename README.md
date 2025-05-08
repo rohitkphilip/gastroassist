@@ -2,7 +2,9 @@
 
 GastroAssist is an intelligent Q&A system designed specifically for gastroenterologists. This system leverages advanced search technology and large language models to provide concise, source-traced answers to clinical questions.
 
-![GastroAssist Logo](https://via.placeholder.com/500x150?text=GastroAssist+AI)
+<p align="center">
+  <img src="./static/gastroassist-logo.svg" alt="GastroAssist Logo" width="600">
+</p>
 
 ## 🌟 Key Features
 
