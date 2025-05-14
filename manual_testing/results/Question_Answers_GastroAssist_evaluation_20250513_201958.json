@@ -1,0 +1,535 @@
+[
+  {
+    "id": "test_1",
+    "query": "What is the most likely cause of chronic epigastric pain that improves with meals?",
+    "expected_answer": "Duodenal ulcer. Pain that improves after eating is characteristic due to buffering effect of food on gastric acid.",
+    "gastroassist_answer": "Chronic epigastric pain that improves with meals is most likely due to peptic ulcer disease, specifically gastric ulcer [SOURCE 1]. This condition is characterized by a localized defect in the gastric mucosa, often caused by Helicobacter pylori infection or nonsteroidal anti-inflammatory drug (NSAID) use [SOURCE 1].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "Help - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40045556/",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-2",
+        "title": "Frequently Asked Questions (FAQ) - medRxiv",
+        "url": "https://www.medrxiv.org/content/10.1101/2025.02.19.25322571v1",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 8,
+        "explanation": "The summary is mostly accurate, but it incorrectly states that gastric ulcer is the most likely cause of chronic epigastric pain that improves with meals. Duodenal ulcer is the correct answer."
+      },
+      "relevance": {
+        "score": 9,
+        "explanation": "The summary is highly relevant to the original query, discussing the likely cause of chronic epigastric pain."
+      },
+      "conciseness": {
+        "score": 7,
+        "explanation": "The summary is somewhat concise, providing a bit of extra information about the causes of gastric ulcers, but it could be more focused on the main point."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The summary properly cites sources for the information provided, but it would be more effective if it cited a source specifically supporting the incorrect claim about gastric ulcer."
+      },
+      "completeness": {
+        "score": 6,
+        "explanation": "The summary does not fully cover the important aspects from the reference summary, missing the key point about the buffering effect of food on gastric acid."
+      },
+      "overall_feedback": "The generated summary is somewhat useful, but it contains a critical error and lacks a crucial detail, making it less reliable for a gastroenterology professional."
+    },
+    "weighted_score": 0.7749999999999999,
+    "individual_scores": {
+      "medical_accuracy": 0.8,
+      "relevance": 0.9,
+      "conciseness": 0.7,
+      "source_usage": 0.8,
+      "completeness": 0.6
+    },
+    "timestamp": "2025-05-13T20:20:23.163124"
+  },
+  {
+    "id": "test_2",
+    "query": "How does Helicobacter pylori contribute to peptic ulcer disease?",
+    "expected_answer": "H. pylori damages the gastric mucosa by producing urease, which creates a local alkaline environment, allowing the bacteria to colonize and trigger inflammation and ulceration.",
+    "gastroassist_answer": "- Peptic ulcer disease (PUD) is a common condition with an annual incidence ranging from 0.1% to 0.3% and a lifetime prevalence ranging from 5% to 10% [SOURCE 1].\n- Complications of PUD can include gastrointestinal bleeding, perforation, and entero-biliary fistula, such as choledocho-duodenal fistula (CDF) [SOURCE 1].\n- CDF is a rare but important diagnosis that can lead to complications like gastric outlet obstruction, bleeding, perforation, or recurrent cholangitis [SOURCE 1].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "Peptic ulcer disease complicated with choledocho ...",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK534792/",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-2",
+        "title": "PMC Beta Search User Guide - PMC - pmc.ncbi.nlm.nih.gov",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005399/",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 2,
+        "explanation": "The AI-generated summary contains no factual errors, but it does not address the query about H. pylori's contribution to peptic ulcer disease. It provides irrelevant information about peptic ulcer disease and its complications."
+      },
+      "relevance": {
+        "score": 0,
+        "explanation": "The summary does not address the original query about H. pylori's role in peptic ulcer disease."
+      },
+      "conciseness": {
+        "score": 6,
+        "explanation": "The summary is brief, but it lacks focus and relevance to the query."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The summary cites a source, but the relevance of the cited information to the query is unclear."
+      },
+      "completeness": {
+        "score": 0,
+        "explanation": "The summary does not cover the important aspect of how H. pylori contributes to peptic ulcer disease, as described in the reference summary."
+      },
+      "overall_feedback": "The AI-generated summary is inadequate for a gastroenterology professional, as it fails to address the query and provides irrelevant information. It requires significant improvement in relevance, completeness, and medical accuracy."
+    },
+    "weighted_score": 0.27999999999999997,
+    "individual_scores": {
+      "medical_accuracy": 0.2,
+      "relevance": 0.0,
+      "conciseness": 0.6,
+      "source_usage": 0.8,
+      "completeness": 0.0
+    },
+    "timestamp": "2025-05-13T20:20:53.629966"
+  },
+  {
+    "id": "test_3",
+    "query": "What are the red flag symptoms in a patient with dyspepsia that warrant urgent endoscopy?",
+    "expected_answer": "Red flags include unintentional weight loss, persistent vomiting, dysphagia, gastrointestinal bleeding, and anemia.",
+    "gastroassist_answer": "In gastroenterology, the approach to diagnosing dyspepsia involves a thorough clinical assessment, including a detailed medical history, physical examination, and possibly laboratory tests to rule out underlying causes such as Helicobacter pylori infection, peptic ulcer disease, or gastroesophageal reflux disease [SOURCE 1]. Endoscopic evaluation may be considered in cases of alarm symptoms, refractory symptoms, or in patients over 55 years old [SOURCE 1]. Non-invasive tests like urea breath test or stool antigen test can help diagnose H. pylori infection [SOURCE 1].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "最近更新 | BMJ Best Practice 临床实践",
+        "url": "https://bestpractice.bmj.com/topics/en-us/769",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 7,
+        "explanation": "The summary is generally accurate, but it does not specifically address the red flag symptoms that warrant urgent endoscopy. It mentions alarm symptoms, but does not explicitly state the red flags. There are no factual errors or omissions."
+      },
+      "relevance": {
+        "score": 6,
+        "explanation": "The summary provides some relevant information about diagnosing dyspepsia, but it does not directly answer the question about red flag symptoms. It provides some tangential information about endoscopic evaluation and non-invasive tests."
+      },
+      "conciseness": {
+        "score": 8,
+        "explanation": "The summary is concise and to the point, but it could be more focused on the specific question being asked. It provides some extraneous information that is not directly relevant to the question."
+      },
+      "source_usage": {
+        "score": 9,
+        "explanation": "The summary properly cites the source material and uses it appropriately to support the information provided."
+      },
+      "completeness": {
+        "score": 4,
+        "explanation": "The summary does not cover the important aspects of the reference summary, which specifically lists the red flag symptoms. The AI-generated summary does not provide this critical information."
+      },
+      "overall_feedback": "The AI-generated summary provides some useful information about diagnosing dyspepsia, but it falls short in directly addressing the question about red flag symptoms. It would be improved by providing more focused and relevant information."
+    },
+    "weighted_score": 0.6799999999999999,
+    "individual_scores": {
+      "medical_accuracy": 0.7,
+      "relevance": 0.6,
+      "conciseness": 0.8,
+      "source_usage": 0.9,
+      "completeness": 0.4
+    },
+    "timestamp": "2025-05-13T20:21:20.596889"
+  },
+  {
+    "id": "test_4",
+    "query": " In a patient with elevated liver enzymes, how would you differentiate between hepatocellular and cholestatic injury?",
+    "expected_answer": "Hepatocellular injury shows elevated ALT/AST, while cholestatic injury shows elevated ALP and GGT. The ALT:ALP ratio helps in differentiation.",
+    "gastroassist_answer": "- Hepatocellular injury is characterized by a disproportionate elevation of AST and ALT levels compared to alkaline phosphatase levels, while cholestatic injury is defined by a disproportionate elevation of alkaline phosphatase compared to AST and ALT levels [SOURCE 2].\n- Elevated conjugated bilirubin implies hepatocellular disease or cholestasis, with an elevated serum conjugated bilirubin suggesting hepatocellular disease or biliary obstruction in most cases [SOURCE 2].\n- Differentiating between hepatocellular and cholestatic injury involves assessing the pattern of liver enzyme elevations and bilirubin levels, along with a comprehensive evaluation for various etiologies including viral hepatitis, fatty liver disease, autoimmune conditions, and medication-induced liver injury [SOURCE 2].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "Help - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31628070/",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-2",
+        "title": "ACG-Abnormal-Liver-Chemistries-Guideline- ...",
+        "url": "https://acgcdn.gi.org/wp-content/uploads/2018/04/ACG-Abnormal-Liver-Chemistries-Guideline-Summary.pdf",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-3",
+        "title": "Automatically Summarizing Evidence from Clinical Trials: A Prototype ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1069083/",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 8,
+        "explanation": "The summary is mostly accurate, but it omits the specific ratio of ALT:ALP that helps in differentiation. Also, it mentions that elevated conjugated bilirubin suggests hepatocellular disease or biliary obstruction in most cases, which is not entirely accurate."
+      },
+      "relevance": {
+        "score": 9,
+        "explanation": "The summary directly addresses the query and provides relevant information for differentiating between hepatocellular and cholestatic injury."
+      },
+      "conciseness": {
+        "score": 6,
+        "explanation": "The summary is somewhat verbose and includes unnecessary information, such as the comprehensive evaluation for various etiologies."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The summary properly cites the source material, but it would be more effective if it provided a range of sources to support the information."
+      },
+      "completeness": {
+        "score": 7,
+        "explanation": "The summary covers the main points, but it lacks the specific ratio of ALT:ALP that is crucial for differentiation."
+      },
+      "overall_feedback": "The generated summary is useful for a gastroenterology professional, but it requires refinement to provide more concise and accurate information. It would benefit from including more specific details and a range of sources."
+    },
+    "weighted_score": 0.7749999999999999,
+    "individual_scores": {
+      "medical_accuracy": 0.8,
+      "relevance": 0.9,
+      "conciseness": 0.6,
+      "source_usage": 0.8,
+      "completeness": 0.7
+    },
+    "timestamp": "2025-05-13T20:21:49.561671"
+  },
+  {
+    "id": "test_5",
+    "query": "What is the first-line treatment for mild to moderate ulcerative colitis?",
+    "expected_answer": "Aminosalicylates (e.g., mesalamine) administered orally or rectally depending on disease extent.",
+    "gastroassist_answer": "- **Induction of Remission in Mildly Active UC**: Treatments include 5-aminosalicylates, corticosteroids, and biologics like infliximab or vedolizumab [SOURCE 2].\n- **Maintenance of Remission**: Thiopurines, anti-TNF agents, and vedolizumab are options for maintaining remission in UC [SOURCE 2].\n- **Moderate to Severe UC**: Biologic agents such as infliximab, adalimumab, golimumab, vedolizumab, and tofacitinib are recommended for induction and maintenance of remission [SOURCE 2].\n- **Hospitalized Patients with Acute Severe UC**: Intravenous corticosteroids or rescue therapy with cyclosporine or infliximab are commonly used [SOURCE 2].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "First American Gastroenterological Association living guideline for ...",
+        "url": "https://gastro.org/press-releases/new-guideline-provides-practical-guidance-for-ulcerative-colitis-therapy-selection-2/",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-2",
+        "title": "ACG Clinical Guideline: Ulcerative Colitis in Adults - LWW",
+        "url": "https://journals.lww.com/ajg/Fulltext/2019/03000/ACG_Clinical_Guideline__Ulcerative_Colitis_in.10.aspx",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 6,
+        "explanation": "The AI-generated summary contains some accurate information, but it also includes treatments for moderate to severe UC and hospitalized patients, which are not relevant to the original query. Additionally, it fails to mention the specific first-line treatment for mild to moderate UC, which is aminosalicylates."
+      },
+      "relevance": {
+        "score": 4,
+        "explanation": "The summary provides some relevant information, but it also includes unnecessary details about moderate to severe UC and hospitalized patients, which detract from its relevance."
+      },
+      "conciseness": {
+        "score": 5,
+        "explanation": "The summary is somewhat concise, but it could be more focused on the original query and avoid unnecessary information."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The AI-generated summary properly cites the source material, but it would be more effective if it provided more specific information about the sources."
+      },
+      "completeness": {
+        "score": 3,
+        "explanation": "The summary lacks completeness, as it fails to mention the specific first-line treatment for mild to moderate UC, which is aminosalicylates."
+      },
+      "overall_feedback": "The AI-generated summary has some useful information, but it lacks focus and specificity, making it less useful for a gastroenterology professional seeking a clear answer to the original query."
+    },
+    "weighted_score": 0.53,
+    "individual_scores": {
+      "medical_accuracy": 0.6,
+      "relevance": 0.4,
+      "conciseness": 0.5,
+      "source_usage": 0.8,
+      "completeness": 0.3
+    },
+    "timestamp": "2025-05-13T20:22:30.017312"
+  },
+  {
+    "id": "test_6",
+    "query": "How do you interpret a positive anti-tissue transglutaminase (tTG) IgA test in a symptomatic adult?",
+    "expected_answer": "It strongly suggests celiac disease, but diagnosis should be confirmed with a duodenal biopsy showing villous atrophy while the patient is on a gluten-containing diet.",
+    "gastroassist_answer": "A positive anti-tissue transglutaminase (TTG) IgA test in a symptomatic adult is suggestive of celiac disease, especially when accompanied by symptoms like chronic diarrhea, weight loss, or malabsorption [SOURCE 1]. Further evaluation with endoscopy and duodenal biopsy is recommended to confirm the diagnosis [SOURCE 1].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "Help - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35722610/",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-2",
+        "title": "Automatically Summarizing Evidence from Clinical Trials: A Prototype ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1770407/",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 8,
+        "explanation": "The summary is mostly accurate, but it omits the crucial detail that the duodenal biopsy should be performed while the patient is on a gluten-containing diet. This is a significant omission that could impact diagnosis and treatment."
+      },
+      "relevance": {
+        "score": 9,
+        "explanation": "The summary directly addresses the original query and provides relevant information about the interpretation of a positive tTG IgA test."
+      },
+      "conciseness": {
+        "score": 8,
+        "explanation": "The summary is concise, but it could be improved by removing the mention of symptoms, which is not essential information for interpreting the test result."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The summary cites a source, but it would be more effective to provide a specific reference or citation style to increase credibility and transparency."
+      },
+      "completeness": {
+        "score": 7,
+        "explanation": "The summary covers the main point, but it omits the important detail about the biopsy being performed on a gluten-containing diet, which reduces its completeness."
+      },
+      "overall_feedback": "The generated summary is useful, but it requires careful review and supplementation by a gastroenterology professional to ensure accurate diagnosis and treatment. It provides a good starting point, but it is not a standalone resource."
+    },
+    "weighted_score": 0.8049999999999999,
+    "individual_scores": {
+      "medical_accuracy": 0.8,
+      "relevance": 0.9,
+      "conciseness": 0.8,
+      "source_usage": 0.8,
+      "completeness": 0.7
+    },
+    "timestamp": "2025-05-13T20:23:00.270935"
+  },
+  {
+    "id": "test_7",
+    "query": "When is colonoscopy recommended in patients with irritable bowel syndrome (IBS)?",
+    "expected_answer": "Colonoscopy is indicated if there are alarm features like bleeding, anemia, weight loss, family history of colorectal cancer, or age over 50 with new symptoms.",
+    "gastroassist_answer": "- Irritable bowel syndrome (IBS) is a chronic disorder characterized by recurrent abdominal pain and altered bowel habits [SOURCE 1].\n- Diagnostic criteria for IBS include symptoms of abdominal pain at least once weekly associated with changes in stool frequency or form [SOURCE 1].\n- Management of IBS involves a positive diagnostic strategy, serologic testing for celiac disease in patients with diarrhea, fecal calprotectin testing for suspected IBS with diarrhea, and a trial of low FODMAP diet [SOURCE 1].\n- Treatment options for IBS include chloride channel activators and guanylate cyclase activators for constipation-predominant IBS, rifaximin for diarrhea-predominant IBS, and gut-directed psychotherapy for global IBS symptoms [SOURCE 1].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "ACG Clinical Guideline: Management of Irritable Bowel...",
+        "url": "https://journals.lww.com/ajg/fulltext/2021/01000/acg_clinical_guideline__management_of_irritable.11.aspx",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-2",
+        "title": "ACG Clinical Guideline: Management of Irritable Bowel ...",
+        "url": "https://webfiles.gi.org/links/PCC/ACG_Clinical_Guideline__Management_of_Irritable.11.pdf",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 8,
+        "explanation": "The AI-generated summary provides accurate information about IBS, but does not address the specific question about colonoscopy recommendation. There are no factual errors or omissions in the provided information."
+      },
+      "relevance": {
+        "score": 2,
+        "explanation": "The AI-generated summary does not address the original question about when colonoscopy is indicated in patients with IBS, instead providing general information about IBS diagnosis and management."
+      },
+      "conciseness": {
+        "score": 6,
+        "explanation": "The summary is somewhat lengthy and includes information not directly related to the original question, but it is still clear and easy to follow."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The AI-generated summary properly cites a single source for all the information provided, but it would be more robust to include multiple sources."
+      },
+      "completeness": {
+        "score": 2,
+        "explanation": "The AI-generated summary does not address the specific question about colonoscopy recommendation and does not cover the important aspects mentioned in the reference summary."
+      },
+      "overall_feedback": "The AI-generated summary is not useful for a gastroenterology professional seeking guidance on when to recommend colonoscopy in patients with IBS, as it does not provide relevant information on this topic."
+    },
+    "weighted_score": 0.5599999999999999,
+    "individual_scores": {
+      "medical_accuracy": 0.8,
+      "relevance": 0.2,
+      "conciseness": 0.6,
+      "source_usage": 0.8,
+      "completeness": 0.2
+    },
+    "timestamp": "2025-05-13T20:23:27.868452"
+  },
+  {
+    "id": "test_8",
+    "query": "What is the pathophysiology behind hepatic encephalopathy in cirrhosis?",
+    "expected_answer": "It results from accumulation of neurotoxins (mainly ammonia) due to impaired hepatic detoxification and portosystemic shunting.",
+    "gastroassist_answer": "- Cirrhosis is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions such as hepatitis and chronic alcoholism [SOURCE 2].\n- Clinical manifestations of cirrhosis can include jaundice, ascites, hepatic encephalopathy, and portal hypertension [SOURCE 2].\n- Gastroenterologists play a crucial role in the diagnosis, management, and monitoring of patients with cirrhosis, focusing on complications prevention and treatment [SOURCE 2].\n\n[SOURCE 2: American College of Gastroenterology. \"Cirrhosis.\" American College of Gastroenterology. Accessed March 2022.]",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "Efficacy and safety of COVID‐19 vaccines - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8280040/",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 2,
+        "explanation": "The summary does not provide any information about the pathophysiology of hepatic encephalopathy in cirrhosis. It only provides general information about cirrhosis and the role of gastroenterologists in its management."
+      },
+      "relevance": {
+        "score": 2,
+        "explanation": "The summary is not relevant to the original query, which asks about the pathophysiology of hepatic encephalopathy in cirrhosis."
+      },
+      "conciseness": {
+        "score": 6,
+        "explanation": "The summary is concise, but it lacks relevance and accuracy."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The summary properly cites the American College of Gastroenterology as the source of the information, but the source is not relevant to the original query."
+      },
+      "completeness": {
+        "score": 0,
+        "explanation": "The summary does not cover any important aspects of the pathophysiology of hepatic encephalopathy in cirrhosis."
+      },
+      "overall_feedback": "This summary is not useful for a gastroenterology professional as it does not provide any relevant or accurate information about the pathophysiology of hepatic encephalopathy in cirrhosis."
+    },
+    "weighted_score": 0.32,
+    "individual_scores": {
+      "medical_accuracy": 0.2,
+      "relevance": 0.2,
+      "conciseness": 0.6,
+      "source_usage": 0.8,
+      "completeness": 0.0
+    },
+    "timestamp": "2025-05-13T20:23:58.906646"
+  },
+  {
+    "id": "test_9",
+    "query": "What stool findings support a diagnosis of chronic pancreatitis?",
+    "expected_answer": "Steatorrhea (fatty, foul-smelling stools) due to exocrine insufficiency, confirmed by low fecal elastase levels.",
+    "gastroassist_answer": "- Acute pancreatitis is an acute response to injury of the pancreas, with gallstones and alcohol use being the most common causes in the United States [SOURCE 1].\n- Chronic pancreatitis can lead to permanent damage to the pancreas's structure and functions [SOURCE 1].\n- Approximately 200,000 hospital admissions annually in the United States are due to acute pancreatitis, with increasing numbers [SOURCE 1].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "Pancreatitis - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538337/",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-2",
+        "title": "Best Practices for Allocating Appropriate Credit and Responsibility to ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8684888/",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 2,
+        "explanation": "The summary contains no factual errors, but it does not provide any relevant information about stool findings that support a diagnosis of chronic pancreatitis. It discusses acute pancreatitis, hospital admissions, and the definition of chronic pancreatitis, but fails to address the query."
+      },
+      "relevance": {
+        "score": 1,
+        "explanation": "The summary is not relevant to the query, as it does not provide any information about stool characteristics that support a diagnosis of chronic pancreatitis."
+      },
+      "conciseness": {
+        "score": 6,
+        "explanation": "The summary is concise, but it lacks clarity and relevance to the query. It could be more concise by removing the unnecessary information about hospital admissions."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The summary properly cites the source for the information provided, but the source is not relevant to the query."
+      },
+      "completeness": {
+        "score": 0,
+        "explanation": "The summary does not cover any important aspects of the reference summary, which mentions steatorrhea and low fecal elastase levels as stool findings that support a diagnosis of chronic pancreatitis."
+      },
+      "overall_feedback": "This summary is not useful for a gastroenterology professional, as it does not provide any relevant to the query and lacks important information about stool findings that support a diagnosis of chronic pancreatitis."
+    },
+    "weighted_score": 0.3,
+    "individual_scores": {
+      "medical_accuracy": 0.2,
+      "relevance": 0.1,
+      "conciseness": 0.6,
+      "source_usage": 0.8,
+      "completeness": 0.0
+    },
+    "timestamp": "2025-05-13T20:24:26.982372"
+  },
+  {
+    "id": "test_10",
+    "query": "In a patient with Barrett’s esophagus, what is the standard surveillance recommendation?",
+    "expected_answer": " Endoscopic surveillance every 3–5 years for non-dysplastic Barrett’s; more frequently if dysplasia is present.",
+    "gastroassist_answer": "- For patients with Barrett's esophagus, the standard surveillance recommendation involves screening for individuals with multiple risk factors and surveillance once the diagnosis of Barrett's esophagus is established [SOURCE 2].\n- Surveillance aims to detect dysplasia or early-stage esophageal adenocarcinoma in a timely manner to improve outcomes [SOURCE 2].\n- Various advanced imaging and sampling modalities like chromoendoscopy, volumetric laser endomicroscopy, confocal laser endomicroscopy, EUS, and wide-area transepithelial sampling are utilized in surveillance [SOURCE 2].",
+    "sources": [
+      {
+        "id": "source-1",
+        "title": "Barrett's Oesophagus Surveillance Versus Endoscopy at Need Study (BOSS ...",
+        "url": "https://www.gastrojournal.org/article/S0016-5085(25)00587-6/fulltext",
+        "author": "",
+        "published_date": ""
+      },
+      {
+        "id": "source-2",
+        "title": "ASGE guideline on screening and surveillance of Barrett's ...",
+        "url": "https://www.asge.org/docs/default-source/guidelines/asge-guideline-on-screening-and-surveillance-of-barrett-s-esophagus-2019-september-gie.pdf?sfvrsn=a562d352_2",
+        "author": "",
+        "published_date": ""
+      }
+    ],
+    "evaluation": {
+      "medical_accuracy": {
+        "score": 6,
+        "explanation": "The summary mentions the importance of surveillance in Barrett's esophagus, but lacks specific details on the recommended frequency. It also mentions various advanced imaging and sampling modalities, but their relevance to the query is unclear. Factual error: the summary does not provide the recommended surveillance interval."
+      },
+      "relevance": {
+        "score": 8,
+        "explanation": "The summary addresses the query by discussing surveillance in Barrett's esophagus, but it provides some unnecessary information on advanced imaging modalities."
+      },
+      "conciseness": {
+        "score": 4,
+        "explanation": "The summary is not concise, as it provides some unnecessary information and lacks clear, direct answers to the query."
+      },
+      "source_usage": {
+        "score": 8,
+        "explanation": "The summary cites a source (SOURCE 2) to support its claims, but it would be more effective if it provided more specific information from the source."
+      },
+      "completeness": {
+        "score": 4,
+        "explanation": "The summary lacks important details on the recommended surveillance interval, which is a critical aspect of the query."
+      },
+      "overall_feedback": "The generated summary provides some relevant information, but it lacks specificity and clarity. It would be more useful for a gastroenterology professional if it provided a clear, concise answer to the query."
+    },
+    "weighted_score": 0.6100000000000001,
+    "individual_scores": {
+      "medical_accuracy": 0.6,
+      "relevance": 0.8,
+      "conciseness": 0.4,
+      "source_usage": 0.8,
+      "completeness": 0.4
+    },
+    "timestamp": "2025-05-13T20:24:53.513508"
+  }
+]

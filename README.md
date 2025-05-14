@@ -94,12 +94,19 @@ Before you begin, please ensure you have the following installed:
 
 ## 📚 Documentation
 
-For more detailed information, please refer to:
+For more detailed information, please refer to our [Documentation Index](./docs/index.md) or explore specific topics:
 
 - [System Architecture](./docs/architecture/system-overview.md)
 - [Enhanced Pipeline](./docs/architecture/enhanced-pipeline.md)
 - [Frontend-Backend Integration](./docs/architecture/frontend-backend-integration.md)
 - [Manual Testing Guide](./docs/architecture/manual-testing-guide.md)
+- [Summarizer Evaluation Guide](./docs/development/summarizer-evaluation.md)
+- [Batch Testing Guide](./docs/development/batch-testing.md)
+- [Domain Adaptation Guide](./docs/customization/adapting-to-dermatology.md)
+- [Environment Variables Guide](./docs/development/environment-variables.md)
+- [Deployment Guide](./docs/deployment-guide.md)
+- [Security Guide](./docs/security-guide.md)
+- [Contributing Guide](./docs/development/contributing.md)
 - [Development Roadmap](./docs/roadmap/technical_review_and_roadmap.md)
 - [Troubleshooting](./docs/troubleshooting.md)
 
@@ -120,6 +127,28 @@ GastroAssist includes both automated and manual testing capabilities:
 - **Automated Testing**: Use the test_pipeline.py script to test the enhanced pipeline
 - **Manual Testing**: Pre-defined gastroenterology questions in the manual_testing directory
 - **API Testing**: Interactive API documentation at /docs endpoint
+- **LLM-based Evaluation**: Use eval_summarizer.py to quantitatively assess summary quality with Groq LLaMA
+- **Batch Testing**: Compare GastroAssist outputs against expected answers automatically
+
+```bash
+# Create a sample test case
+python scripts/eval_summarizer.py --create-sample --sample-output sample_test.json
+
+# Evaluate a single summary
+python scripts/eval_summarizer.py --single-test \
+  --query "What are the current guidelines for H. pylori treatment?" \
+  --generated "Generated summary text" \
+  --reference "Reference summary text"
+
+# Run batch evaluation on test cases
+python scripts/eval_summarizer.py --test-dir manual_testing --output-file eval_results.json
+
+# Run batch testing with LLM evaluation against expected answers
+python scripts/batch_test_gastroassist.py \
+  --input-file manual_testing/Question_Answers_GastroAssist.csv \
+  --output-dir manual_testing/results \
+  --run-gastroassist
+```
 
 ## 🤝 Contributing
 
