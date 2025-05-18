@@ -55,8 +55,18 @@ Before you begin, please ensure you have the following installed:
 
    ```
    # API Keys - Get these from your account dashboards
-   OPENAI_API_KEY=your_openai_api_key  # Get from: https://platform.openai.com/api-keys
-   TAVILY_API_KEY=your_tavily_api_key  # Get from: https://tavily.com/dashboard
+   # Get from: https://platform.openai.com/api-keys
+   OPENAI_API_KEY="your_openai_api_key"
+   # Get from: https://tavily.com/dashboard
+   TAVILY_API_KEY="your_tavily_api_key"
+
+   # Optional: For LLaMA model access via Groq
+   # Get from: https://console.groq.com/keys
+   GROQ_API_KEY=your_groq_api_key
+
+   # LLM Service Selection (openai or groq)
+   # Change to "groq" to use Groq's LLaMA models
+   LLM_SERVICE="openai"
 
    # Database
    DATABASE_URL=sqlite:///./gastroassist.db
