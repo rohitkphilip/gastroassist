@@ -16,7 +16,7 @@ export default function Home() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (query.trim()) {
-      dispatch(submitQuery(query));
+      dispatch(submitQuery(query) as any);
     }
   };
 
