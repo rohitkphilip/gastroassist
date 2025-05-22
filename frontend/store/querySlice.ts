@@ -32,7 +32,7 @@ export const submitQuery = createAsyncThunk(
   'query/submit',
   async (queryText: string, { rejectWithValue }) => {
     try {
-      const response = await axios.post(`${API_BASE_URL}/api/query`, {
+      const response = await axios.post(`/api/query`, {
         text: queryText,
         user_id: 'guest',
       });
