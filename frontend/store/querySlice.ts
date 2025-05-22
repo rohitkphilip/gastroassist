@@ -1,6 +1,8 @@
 import { createSlice, createAsyncThunk, PayloadAction } from '@reduxjs/toolkit';
 import axios from 'axios';
 
+const API_BASE_URL = process.env.REACT_APP_API_URL || '';
+
 interface Source {
   title: string;
   url?: string;
@@ -30,7 +32,7 @@ export const submitQuery = createAsyncThunk(
   'query/submit',
   async (queryText: string, { rejectWithValue }) => {
     try {
-      const response = await axios.post('/api/query', {
+      const response = await axios.post(`${API_BASE_URL}/api/query`, {
         text: queryText,
         user_id: 'guest',
       });
